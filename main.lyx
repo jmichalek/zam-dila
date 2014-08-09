@@ -1,0 +1,7160 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\input{contents/preamble.tex}
+\bibliography{literature/bibliography}
+
+\setlength\marginparwidth{2.5cm}
+\setlength\marginparsep{0.5cm}
+\usepackage{lastpage}
+\end_preamble
+\options hyphens
+\use_default_options true
+\maintain_unincluded_children false
+\language czech
+\language_package babel
+\inputencoding utf8-plain
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 10
+\spacing single
+\use_hyperref false
+\pdf_title "Zaměstnanecká díla na školách"
+\pdf_author "Jakub Michálek"
+\pdf_subject "autorské právo"
+\pdf_keywords "otevřený přístup, zaměstnanecké dílo, vzdělávání"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a5paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1.5cm
+\topmargin 2cm
+\rightmargin 3.5cm
+\bottommargin 2cm
+\secnumdepth 3
+\tocdepth 2
+\paragraph_separation skip
+\defskip medskip
+\quotes_language german
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\bullet 0 0 0 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newgeometry{margin=1.5cm}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\size giant
+Zaměstnanecká díla na školách
+\size default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textcolor{mygreen}{
+\backslash
+rule{
+\backslash
+textwidth}{4pt}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\size large
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\size large
+\emph on
+aneb 
+\emph default
+
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\size large
+Jak využít autorská práva pro otevřený přístup k vědomostem?
+\begin_inset VSpace 4cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align right
+
+\size large
+Jakub Michálek
+\size default
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/atlas.png
+	lyxscale 20
+	width 40text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align right
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+restoregeometry
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{roman}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Vzor citace: 
+\end_layout
+
+\begin_layout Standard
+MICHÁLEK, J.
+ 
+\emph on
+Zaměstnanecká díla na školách.
+
+\emph default
+ Praha: Nakladatelství XYZ, 2005, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pageref{LastPage}
+\end_layout
+
+\end_inset
+
+ s.
+ Dostupný na WWW 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://volbajeveda.cz/zamestnanecka-dila
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 2cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+KATALOGIZACE V KNIZE -- NÁRODNÍ KNIHOVNA ČR
+\end_layout
+
+\begin_layout Plain Layout
+Michálek, Jakub
+\begin_inset Newline newline
+\end_inset
+
+Zaměstnanecká díla na školách / Jakub Michálek -- Praha: Nakladatelství
+ XYZ, 2014.
+ -- 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pageref{LastPage}
+\end_layout
+
+\end_inset
+
+ stran -- 
+\begin_inset Newline newline
+\end_inset
+
+ISBN 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1cm
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+copyright}
+\end_layout
+
+\end_inset
+
+ XX, 2013.
+ Toto dílo je zaměstnanecké dílo autora.
+ 
+\end_layout
+
+\begin_layout Standard
+Toto dílo jste oprávněni užít za podmínek licence CC-BY-SA 4.0 Uveďte autora
+ - Zachovejte licenci.
+ 
+\end_layout
+
+\begin_layout Standard
+Aktuální verzi webu naleznete na webu 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://volbajeveda.cz/zamestnanecka-dila
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Názory vyjádřené v publikaci nevyjadřují stanoviska nositele práv, nýbrž
+ autora publikace.
+ Za omyly a chyby nese plnou odpovědnost autor.
+ Připomínky a náměty můžete autorovi zasílat na adresu 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+href{mailto:jakub.michalek@pirati.cz}{
+\backslash
+nolinkurl{jakub.michalek@pirati.cz}}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Vysázeno v typografickém systému LaTeX.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1cm
+\end_inset
+
+
+\size small
+Obrázek na titulní straně znázorňuje titána Atlanta nesoucího břemeno copyrightu.
+ Drobným dokreslením zobáčku lze však copyright změnit na zatočenou šipku,
+ která představuje dostupnost a opakované užití autorských děl.
+ Alegorie vystihuje ideu, že drobné změny vnitřní úpravy zaměstnaneckých
+ děl mohou sloužit k tomu, že autorské právo nebude bránit šíření vzdělanosti,
+ ale bude poznané chránit.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align right
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+Zaměstnanecká díla na školách
+\end_layout
+
+\begin_layout Author
+Mgr.
+ Bc.
+ Jakub Michálek
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Absolvent Právnické fakulty UK a Matematicko-fyzikální fakulty UK, člen
+ Ediční komise AS UK.
+ Toho času pracuje jako advokátní koncipient ve společnosti Řehák & Partneři,
+ k.
+\begin_inset space \thinspace{}
+\end_inset
+
+s., Praha.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+Podnikatelé využívají svých oprávnění podle autorského zákona za účelem
+ dosažení zisku.
+ Naproti tomu školy a jiné veřejné instituce svá práva podle autorského
+ zákona často zanedbávají, což se může nepříznivě projevit na jejich účelu
+ -- šíření vzdělanosti.
+ Na školách se vytváří zejména díla školní (studenti) a zaměstnanecká (učitelé).
+ Povědomí o zaměstnaneckých dílech není v České republice příliš rozšířené.
+ Ke zlepšení této situace jsem ve volném čase vytvořil stručného průvodce,
+ který by měl představitelům vysokých, středních a základních škol pomoci
+ při pochopení právní úpravy zaměstnaneckých děl a při jejím efektivním
+ využívání ku prospěchu vzdělanosti.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align right
+
+\size large
+\emph on
+„Posláním univerzity je šíření vzdělanosti a 
+\begin_inset Newline newline
+\end_inset
+
+ochrana poznaného\SpecialChar \ldots{}
+“
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align right
+čl.
+ 2 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 statutu Univerzity Karlovy 
+\begin_inset Newpage newpage
+\end_inset
+
+
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{arabic}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{page}{1}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Právní stav zpracování publikace
+\end_layout
+
+\begin_layout Standard
+Text je zpracován k právnímu stavu ke dni 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+today{}
+\end_layout
+
+\end_inset
+
+.
+ Současná úprava zaměstnaneckých děl účinkuje od 1.
+ prosince 2000.
+ Před tímto datem byly poměry při vzniku zaměstnaneckého díla podstatně
+ odlišné, a tedy informace uvedené v tomto textu se na dříve vytvořená díla
+ nevztahují.
+\end_layout
+
+\begin_layout Subsection*
+Seznam zkratek použitých předpisů
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+AZ 
+\series default
+zákon č.
+ 121/2000 Sb., autorský zákon
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+NOZ 
+\series default
+zákon č.
+ 89/2012 Sb., občanský zákoník
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+ObčZ
+\series default
+ zákon č.
+ 40/1964 Sb., občanský zákoník (zrušen)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+ObchZ
+\series default
+ zákon č.
+ 513/1991 Sb., obchodní zákoník (zrušen)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+ZP
+\series default
+ zákon č.
+ 262/2006 Sb., zákoník práce
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+ZVŠ
+\series default
+ zákon č.
+ 111/1998 Sb., o vysokých školách
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+ZVV
+\series default
+ zákon č.
+ 130/2002 Sb., o podpoře výzkumu a vývoje z veřejných prostředků
+\end_layout
+
+\begin_layout Standard
+Tvrzení jsou v poznámkách na okraji doprovázena odkazem na ustanovení právního
+ předpisu.
+ Odkazu na již zrušený (přesto někdy použitelný) právní předpis uvádím v
+ hranatých závorkách za odkazem na platnou právní úpravu.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Zaměstnanecké dílo v zákonech
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Zakony"
+
+\end_inset
+
+Základní úpravu zaměstnaneckého díla a souvisejících otázek nalezneme v
+ autorském zákoně vydaném pod č.
+\begin_inset space ~
+\end_inset
+
+121/2000 Sb., ve znění pozdějších předpisů (dále též zkráceně „AZ“).
+\end_layout
+
+\begin_layout Subsection
+Co je to zaměstnanecké dílo?
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Pojmovy-znak-ZD"
+
+\end_inset
+
+
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+zaměstnanecké dílo
+\end_layout
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+58 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 AZ
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+Zaměstnanecké dílo
+\series default
+ je autorské dílo, které autor vytvořil ke splnění svých povinností vyplývajícíc
+h z pracovněprávního vztahu ke svému zaměstnavateli.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Za těchto předpokladů budou zaměstnaneckým dílem zpravidla
+\end_layout
+
+\begin_layout Itemize
+pracovní list, který učitel napsal na počítači při přípravě na hodinu,
+\end_layout
+
+\begin_layout Itemize
+skripta napsaná vysokoškolským učitelem pro studenty, pokud je učitel v
+ mzdové třídě zahrnující publikační činnost,
+\end_layout
+
+\begin_layout Itemize
+vědecký článek nebo jiný výsledek tvůrčí vědecké práce, 
+\end_layout
+
+\begin_layout Itemize
+habilitační práce akademické akademického pracovníka ke splnění požadavku
+ zaměstnavatele na řádný výkon práce,
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Telec2008"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+fotografická dokumentace školních akcí provedená učitelem,
+\end_layout
+
+\begin_layout Itemize
+přednáška připravovaná učitelem a prezentace pro ni vytvořená, 
+\end_layout
+
+\begin_layout Itemize
+posudek dizertační nebo jiné kvalifikační práce,
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Telec2008"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+příspěvek učitele vkládaný při jeho práci do systému jako jsou 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+Wikiskipta.eu
+\end_layout
+
+\end_inset
+
+ apod.
+\end_layout
+
+\begin_layout Standard
+Poznámky:
+\end_layout
+
+\begin_layout Itemize
+Autorské dílo
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+2 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 AZ
+\end_layout
+
+\end_inset
+
+ je chráněno bez ohledu na rozsah nebo význam.
+ Může jít jen o několik slov (např.
+ editace encyklopedie Wikipedia je zpravidla také autorským dílem, pokud
+ vyplývá z povinnosti vyučujícího, pak i dílem zaměstnaneckým).
+ Totéž platí 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz dále kapitolu 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Podoba-dila"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+o podobě díla.
+\end_layout
+
+\begin_layout Itemize
+Není podstatné, zda je práce vykonávána v pracovní době nebo prostředky
+ zaměstnavatele, nýbrž pouze to, zda ji zaměstnanec vytvořil ke splnění
+ svých povinností vyplývajících z pracovněprávního vztahu.
+ Pracovní pokyny lze dohodnout ve smlouvě nebo je může zaměstnavatel určit
+ v rámci sjednaného druhu práce jednostranně buď konkrétním úkolem nebo
+ určením pracovní náplně (např.
+ ve vnitřním mzdovém předpisu
+\begin_inset CommandInset citation
+LatexCommand cite
+after "s. 64"
+key "Telec2008"
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Itemize
+Není významné, zda druh práce (funkce zaměstnance), sjednaný v pracovní
+ smlouvě, zní výslovně na tvůrčí práci literární, uměleckou nebo vědeckou.
+ Podstatné je, že z ní alespoň potenciálně vyplývá, že jejím výsledkem může
+ být vznik díla literárního, uměleckého nebo vědeckého.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:Rozhodnuti-zamdilo-druh"
+
+\end_inset
+
+Rozhodnutí Obvodního soudu pro Prahu 1, sp.
+ zn.
+ 14 C 4/1982, 14 C 5/1982 a 14 C 6/1982.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Za zaměstnanecká díla se se všemi důsledky s tím spojenými považují také:
+\end_layout
+
+\begin_layout Itemize
+díla 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+58 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 AZ
+\end_layout
+
+\end_inset
+
+vytvořená ke splnění povinností vyplývajících z pracovního vztahu autora
+ ke družstvu či ze služebního vztahu,
+\end_layout
+
+\begin_layout Itemize
+díla 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+58 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+10 AZ
+\end_layout
+
+\end_inset
+
+vytvořená ke splnění povinnosti vyplývajících ze vztahu mezi právnickou
+ osobou a autorem, který je členem jejího orgánu,
+\end_layout
+
+\begin_layout Itemize
+počítačové 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+58 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+7 AZ
+\end_layout
+
+\end_inset
+
+ programy, databáze a kartografická díla vytvořené autorem na objednávku,
+\end_layout
+
+\begin_layout Itemize
+kolektivní 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+59 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+2 AZ
+\end_layout
+
+\end_inset
+
+díla
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Kolektivním dílem je dílo, na jehož tvorbě se podílí více autorů, které
+ je vytvářeno z podnětu a pod vedením fyzické nebo právnické osoby a uváděno
+ na veřejnost pod jejím jménem, přičemž příspěvky zahrnuté do takového díla
+ nejsou schopny samostatného užití.
+ Kolektivním dílem však nejsou díla audiovizuální a díla audiovizuálně užitá.
+ Za podmínek věty první budou kolektivním dílem např.
+ mapy nebo počítačové programy.
+\end_layout
+
+\end_inset
+
+ vytvořená spoluautory na objednávku.
+\end_layout
+
+\begin_layout Standard
+Autorem ve smyslu autorského zákona je vždy člověk -- nemůže jím být obchodní
+ společnost nebo jiná právnická osoba.
+ Ta může být pouze 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz kapitolu
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Nositel-prav"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+nositelem práv, o čemž bude řeč dále.
+\end_layout
+
+\begin_layout Subsection
+Výkon majetkových práv k zaměstnaneckému dílu
+\end_layout
+
+\begin_layout Standard
+Základní zásadu 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+58 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 AZ
+\end_layout
+
+\end_inset
+
+ výkonu autorských práv lze shrnout takto:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+Majetková práva k zaměstnaneckému dílu vykonává zaměstnavatel.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+To znamená, že ve věci majetkových autorských práv k zaměstnaneckému dílu
+ jedná zaměstnavatel svým jménem a na svůj účet.
+ Autor může dílo užít pouze se souhlasem zaměstnavatele.
+ Zaměstnavatel získává oprávnění vykonávat majetková práva k zaměstnaneckému
+ dílu, a to i vůči autorovi
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+12 AZ
+\end_layout
+
+\end_inset
+
+.
+ Zaměstnavatel má právo
+\end_layout
+
+\begin_layout Itemize
+zaměstnanecké dílo 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+12 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 AZ
+\end_layout
+
+\end_inset
+
+ užít
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Obsah práva dílo užít je vymezen příklady v §
+\begin_inset space \thinspace{}
+\end_inset
+
+13 až §
+\begin_inset space \thinspace{}
+\end_inset
+
+23 AZ.
+\end_layout
+
+\end_inset
+
+ v původní nebo jiným zpracované či jinak změněné podobě,
+\end_layout
+
+\begin_layout Itemize
+udělit 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+12 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 AZ
+\end_layout
+
+\end_inset
+
+ jinému oprávnění licenční smlouvou; bez tohoto oprávnění může autor a jiná
+ osoba dílo užít pouze v případech, které stanoví zákon,
+\end_layout
+
+\begin_layout Itemize
+žádat 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+12 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+3 AZ
+\end_layout
+
+\end_inset
+
+ po autorovi nebo jiné osobě, která má originál díla v držení, aby mu ho
+ zpřístupnil nebo na náklady zaměstnavatele zhotovil kopii a poskytl ji
+ zaměstnavateli,
+\end_layout
+
+\begin_layout Itemize
+na odměnu 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+30 a §
+\begin_inset space \thinspace{}
+\end_inset
+
+30a AZ
+\end_layout
+
+\end_inset
+
+ v souvislosti s rozmnožováním zaměstnaneckých děl pro osobní potřebu člověka;
+ zaměstnavatel by se měl přihlásit u příslušného kolektivního správce,
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz kapitolu
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Nositel-prav"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ který vybírá náhradní odměny od uživatelů.
+ 
+\end_layout
+
+\begin_layout Standard
+Osobnostní práva 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+11 AZ
+\end_layout
+
+\end_inset
+
+ autorská zůstávají autorovi zachována.
+ Zaměstnavatel však smí, pokud se se zaměstnancem nedohodl jinak, dílo 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+58 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+4, 5 AZ
+\end_layout
+
+\end_inset
+
+ zveřejnit, upravit, zpracovat, spojit s jiným dílem, zařadit do souboru,
+ uvádět dílo pod svým jménem nebo dílo dokončit, pokud ho zaměstnanec nedokončil.
+\end_layout
+
+\begin_layout Standard
+Výjimky ze zásady, že majetková práva k zaměstnaneckému dílu vykonává zaměstnava
+tel:
+\end_layout
+
+\begin_layout Itemize
+Zaměstnanec
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+58 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 AZ
+\end_layout
+
+\end_inset
+
+ a zaměstnavatel se mohou dohodnout, že autorská práva majetková nebude
+ vykonávat zaměstnavatel, ale zaměstnanec svým jménem a na svůj účet (souhlasit
+ musí jak zaměstnanec, tak zaměstnavatel).
+\end_layout
+
+\begin_layout Itemize
+Zaměstnavatel může právo výkonu majetkových práv k zaměstnaneckému dílu
+ postoupit třetí osobě, ale pouze se svolením autora.
+ Pokud se však prodává obchodní závod (dříve podnik), 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+58 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 AZ
+\begin_inset Newline newline
+\end_inset
+
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+2178 NOZ
+\begin_inset Newline newline
+\end_inset
+
+[§
+\begin_inset space \thinspace{}
+\end_inset
+
+479 ObchZ]
+\end_layout
+
+\end_inset
+
+právo k výkonu majetkových práv k zaměstnaneckému dílu přechází společně
+ s obchodním závodem, není-li v původní pracovní smlouvě nebo kupní smlouvě
+ na obchodní závod jiné ujednání.
+\end_layout
+
+\begin_layout Itemize
+Na úřední díla a tradiční výtvorů
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+3 AZ
+\end_layout
+
+\end_inset
+
+ lidové kultury se ustanovení zákona o majetkových právech autorských vůbec
+ nepoužijí.
+ Šíření takových děl autorský zákon neomezuje; je však třeba přihlédnout
+ k jiným zákonům.
+\end_layout
+
+\begin_layout Standard
+Poznámky:
+\end_layout
+
+\begin_layout Itemize
+K užití zaměstnaneckého díla zaměstnavatelem není potřeba uzavírat samostatnou
+ smlouvu, neboť zaměstnavatel vykonává majetková autorská práva ze zákona.
+\end_layout
+
+\begin_layout Itemize
+Ve všech ostatních případech je k užití zaměstnaneckého díla třetí osobou
+ potřeba uzavřít licenční smlouvu se zaměstnavatelem, ledaže zákon stanoví
+ pro takové užití výjimku.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset CommandInset label
+LatexCommand label
+name "Zpracovani"
+
+\end_inset
+
+Tvůrčím
+\series bold
+ zpracováním
+\series default
+ 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+zpracování
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+2 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+4 AZ
+\end_layout
+
+\end_inset
+
+původního autorského díla do nového autorského díla není dotčeno právo nositele
+ práv k původnímu dílu.
+ Pokud tedy zpracujeme zaměstnanecké dílo a toto zpracování chceme dále
+ šířit, musíme mít souhlas zaměstnavatele.
+\end_layout
+
+\begin_layout Standard
+Nedohodnou-li se zaměstnavatel a zaměstnanec jinak, zaměstnanci zbývá k
+ zaměstnaneckému dílu jen 
+\begin_inset Quotes gld
+\end_inset
+
+holé autorství
+\begin_inset Quotes grd
+\end_inset
+
+,
+\begin_inset CommandInset citation
+LatexCommand cite
+key "komentar"
+
+\end_inset
+
+
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+holé autorství
+\end_layout
+
+\end_inset
+
+ které spočívá zejména v tom, že 
+\end_layout
+
+\begin_layout Itemize
+zaměstnanec 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+58 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+2 AZ
+\end_layout
+
+\end_inset
+
+v případě zániku zaměstnavatele bez právního nástupce získává výkon majetkových
+ práv autor zpět,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Jde o tzv.
+ konsolidační zásadu,
+\begin_inset CommandInset citation
+LatexCommand cite
+key "komentar"
+
+\end_inset
+
+ která je projevem tzv.
+ elasticity vlastnictví.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+zaměstnanec 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+58 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+3 AZ
+\end_layout
+
+\end_inset
+
+má právo požadovat od zaměstnavatele udělení licence za obvyklých podmínek,
+ pokud zaměstnavatel nevykonává majetková práva k zaměstnaneckému dílu vůbec
+ nebo jen nedostatečně, ledaže má zaměstnavatel závažný důvod k jejímu odmítnutí
+,
+\end_layout
+
+\begin_layout Itemize
+zaměstnanec 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+58 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+6 AZ
+\end_layout
+
+\end_inset
+
+má právo na přiměřenou dodatečnou odměnu, pokud se jeho mzda nebo odměna
+ dostane do zjevného nepoměru k tomu, nakolik zaměstnavatel dílo zpeněžil;
+ to však neplatí, pokud se dohodli ve smlouvě jinak.
+\end_layout
+
+\begin_layout Standard
+Právní úpravu zaměstnaneckých děl, u kterých se zaměstnavatel a zaměstnanec
+ nedohodli jinak, lze shrnout do tab.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Uprava-zam-del"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="4">
+<features booktabs="true" tabularvalignment="middle" tabularwidth="100text%">
+<column alignment="left" valignment="top" width="24text%">
+<column alignment="left" valignment="top" width="22text%">
+<column alignment="left" valignment="top" width="20text%">
+<column alignment="left" valignment="top" width="20text%">
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Okruh práv
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Obsah práv
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Nositel práv
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Převoditelné
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="default">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Majetková práva autorská
+\series bold
+ 
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+(§
+\begin_inset space \thinspace{}
+\end_inset
+
+12 a násl.
+ AZ)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+holé autorství 
+\begin_inset Newline newline
+\end_inset
+
+(viz výše)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+zaměstnanec 
+\begin_inset Newline newline
+\end_inset
+
+(autor díla)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+jen děděním §
+\begin_inset space \thinspace{}
+\end_inset
+
+26 AZ
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row bottomspace="default">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Právo na výkon majetkových práv autorských
+\begin_inset Newline newline
+\end_inset
+
+(§
+\begin_inset space \thinspace{}
+\end_inset
+
+58 AZ)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+užití díla všemi způsoby
+\begin_inset Newline newline
+\end_inset
+
+udělení licence jiné osobě 
+\begin_inset Newline newline
+\end_inset
+
+(§
+\begin_inset space \thinspace{}
+\end_inset
+
+46 AZ)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+zaměstnavatel
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+za podmínek §
+\begin_inset space \thinspace{}
+\end_inset
+
+58 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 AZ
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Právo dílo užít na základě licence
+\begin_inset Newline newline
+\end_inset
+
+(§
+\begin_inset space \thinspace{}
+\end_inset
+
+12 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 AZ)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+užití díla způsobem uvedeným v
+\begin_inset space ~
+\end_inset
+
+licenci
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+zaměstnavatel
+\begin_inset Newline newline
+\end_inset
+
+oprávněný uživatel
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+za podmínek §
+\begin_inset space \thinspace{}
+\end_inset
+
+48 AZ
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Uprava-zam-del"
+
+\end_inset
+
+Právní úprava zaměstnaneckých děl, pokud se zaměstnavatel a zaměstnanec
+ nedohodnou jinak.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Obdobná úprava -- motivovaná ochranou investice zaměstnavatele -- je i v
+ zahraničí.
+ Například ve Spojených státech, které patří do anglosaské právní oblasti,
+ se používá koncept 
+\emph on
+Work for Hire
+\emph default
+.
+ Byť i zde platí princip, že nositelem majetkových práv je zaměstnavatel,
+ soudy ve sporech mezi školami a jejich učiteli rozhodují nejednotně.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "WorkforHire2013"
+
+\end_inset
+
+ Princip svěření majetkových práv k zaměstnaneckému dílu zaměstnavateli,
+ pokud není dohodnuto jinak, je obsažen v čl.
+\begin_inset space ~
+\end_inset
+
+3.4 modelového copyrightového zákoníku.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Wittem2010"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Další případy omezení výkonu majetkových práv autorem
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Nositel-prav"
+
+\end_inset
+
+Zaměstnanecká díla jsou pouze jedním z případů, kdy je právo autora užít
+ dílo a udělit licenční smlouvou jinému zákonem omezeno.
+ Dalším takovým příkladem jsou výhradní licence,
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+výhradní licence
+\end_layout
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+47 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+2 AZ
+\end_layout
+
+\end_inset
+
+ po jejichž udělení se autor musí zdržet užití díla, nedohodl-li se s nabyvatele
+m licence jinak.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Nositelem práv
+\series default
+ 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+nositel práv
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+95 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+2 AZ
+\end_layout
+
+\end_inset
+
+nazýváme fyzickou nebo právnickou osobu, 
+\end_layout
+
+\begin_layout Itemize
+které přísluší majetkové právo autorské, 
+\end_layout
+
+\begin_layout Itemize
+která je ze zákona oprávněna vykonávat právo dílo užít (např.
+ výše uvedený zaměstnavatel) nebo 
+\end_layout
+
+\begin_layout Itemize
+která má výhradní licenci a může udělit jiné osobě oprávnění k užití díla.
+\end_layout
+
+\begin_layout Standard
+Zvláštním případem, kdy autor nebo jiný nositel práv nemůže své právo vykonávat
+ sám, je zákonné zastoupení autora nebo nositele práv v případě 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+96 AZ
+\end_layout
+
+\end_inset
+
+povinně kolektivně spravovaných práv.
+ 
+\end_layout
+
+\begin_layout Standard
+V případě zaměstnaneckých děl autor dostává odměnu v podobě mzdy nebo jiné
+ odměny, v případě výhradní licence je odměna stanovena v licenční smlouvě,
+ v
+\begin_inset space ~
+\end_inset
+
+případě povinné kolektivní správy práv dostává autor náhradní odměnu od
+ kolektivního správce (např.
+ z platby, kterou výrobci nosičů nebo tiskáren odvádějí v zákonné výši kolektivn
+ímu správci).
+\end_layout
+
+\begin_layout Standard
+Pokud vykonává autorská práva k zaměstnaneckému dílu zaměstnavatel, je také
+ oprávněn na svůj účet vykonávat majetkové právo autora na náhradní odměnu
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+náhradní odměny
+\end_layout
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+25 AZ
+\end_layout
+
+\end_inset
+
+ za užití.
+ Univerzitě, jiné veřejné vysoké škole či jiné veřejné instituci, která
+ vykonává majetková práva k velkému souboru zaměstnaneckých děl, lze doporučit,
+ aby se za tímto účelem přihlásila u příslušného kolektivního správce (u
+ literárních děl jde o občanské sdružení Dilia).
+ 
+\end_layout
+
+\begin_layout Subsection
+Práva k výsledkům výzkumu, vývoje a inovací vytvořených s podporou z veřejných
+ prostředků
+\begin_inset Argument
+status collapsed
+
+\begin_layout Plain Layout
+Práva k výsledkům výzkumu s veřejnou podporou
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Práva k autorským dílům, která vzniknou při výzkumu a vývoji podporovaném
+ z veřejných prostředků, upravuje zákon č.
+ 130/2002 Sb., o podpoře výzkumu a vývoje z veřejných prostředků, ve znění
+ pozdějších předpisů (dále také zkráceně „ZVV“).
+\end_layout
+
+\begin_layout Standard
+Práva k výsledkům výzkumu a vývoje patří buď příjemci veřejné podpory nebo
+ poskytovateli, přičemž rozhodující je, zda jde o 
+\series bold
+výsledek veřejné zakázky
+\series default
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+Jde-li o výsledek veřejné zakázky,
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+16 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+2 ZVV
+\end_layout
+
+\end_inset
+
+ je příjemce, pokud poskytovatel nestanoví jinak, povinen udělené vlastnické
+ právo převést na poskytovatele (zadavatele).
+ V případě zaměstnaneckých děl jde o vlastnické právo k věci,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Podle §
+\begin_inset space \thinspace{}
+\end_inset
+
+489 NOZ je věcí v právním smyslu vše, co je rozdílné od osoby a slouží potřebě
+ lidí, tedy i právo, jehož povaha to připouští.
+ 
+\end_layout
+
+\end_inset
+
+ kterou je právo na výkon autorských práv.
+ Tuto věc lze převést jen se souhlasem autora, nicméně zaměstnavatel může
+ udělit poskytovateli výhradní licenci s právem udílet podlicence, což má
+ z majetkového hlediska obdobný účinek jako převod věci.
+\end_layout
+
+\begin_layout Itemize
+Nejde-li o výsledek veřejné zakázky, 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+16 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+3 ZVV
+\end_layout
+
+\end_inset
+
+ patří práva příjemci.
+ Příjemce, který není fyzickou osobou, upraví způsob nakládání s výsledky
+ svým vnitřním předpisem.
+ To se bude typicky týkat veřejných vysokých škol a právnických osob ve
+ výzkumu a vzdělávání.
+ Zákon následně stanoví,
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+16 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+4 ZVV
+\end_layout
+
+\end_inset
+
+ že výsledek plně financovaný z veřejných prostředků musí být přístupný
+ za rovných podmínek všem zájemcům o využití; další pravidla pro menší veřejnou
+ podporu stanoví odstupňovaně.
+\end_layout
+
+\begin_layout Standard
+V případě zaměstnaneckého díla ve výzkumu platí to, co bylo dříve uvedeno,
+ tedy majetková práva autora vykonává ze zákona zaměstnavatel.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Subsection
+Směrnice o opakovaném užití informací veřejného sektoru
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Vnitřní úprava zaměstnavatelem
+\end_layout
+
+\begin_layout Standard
+Tato kapitola se věnuje následujícím otázkám: 
+\end_layout
+
+\begin_layout Itemize
+Jaké problémy vznikají školám v důsledku chybného nebo nedostatečného použití
+ zákonné úpravy zaměstnaneckých děl?
+\end_layout
+
+\begin_layout Itemize
+Jakým způsobem školy v současné době přistupují k úpravě šíření zaměstnaneckých
+ děl?
+\end_layout
+
+\begin_layout Itemize
+Jaké je poslání škol a z jakých principů by vnitřní úprava zaměstnaneckých
+ děl měla vycházet?
+\end_layout
+
+\begin_layout Itemize
+Jakým způsobem v konkrétním případě upravit zaměstnanecká díla ve školních
+ poměrech?
+\end_layout
+
+\begin_layout Subsection
+Praktické problémy
+\end_layout
+
+\begin_layout Standard
+Praktické problémy týkající se zaměstnaneckých děl lze shrnout do následujících
+ okruhů:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Neoprávněná užití
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Většina uživatelů autorských děl v populaci není dobře informována o autorském
+ právu, natož pak o ustanoveních zákona o zaměstnaneckých dílech.
+ Tato nevědomost však nemění nic na tom, že pokud užijí autorské dílo bez
+ licenční smlouvy se zaměstnavatelem, může se zaměstnavatel domáhat ochrany
+ svého práva
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+41 AZ
+\end_layout
+
+\end_inset
+
+ u soudu.
+ Zejména může žádat 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+bezdůvodné obohacení
+\end_layout
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+40 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+4 AZ
+\end_layout
+
+\end_inset
+
+ vydání bezdůvodného obohacení ve výši dvojnásobku obvyklé licenční odměny.
+ Porušování autorského práva je také 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+105a odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 písm.
+ a) AZ
+\end_layout
+
+\end_inset
+
+přestupkem.
+ Pokud by šlo o společensky škodlivý případ (například zaměstnanec vydává
+ zaměstnanecké dílo u komerční nakladatelství a poškozuje tak školu na majetku),
+ může jít i o 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+270 TrZ
+\end_layout
+
+\end_inset
+
+trestný čin porušování autorského práva.
+ Tyto delikty jsou příslušné orgány povinny stíhat, kdykoliv se o nich dozví.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Právní nejistota
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Pokud nejsou práva a povinnosti při užití autorských děl vykonávána v souladu
+ se zákonem, ocitají se jejich uživatelé v právní nejistotě.
+ Z důvodu právní nejistoty pak mohou odmítnout poskytnutí nebo užití díla,
+ které by bylo v souladu se zákonem (například poskytnutí jiné škole k využití
+ nad rámec 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+31 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 písm.
+\begin_inset space ~
+\end_inset
+
+c) AZ
+\end_layout
+
+\end_inset
+
+výukové licence, umístění díla na Internet samostatně nebo v rámci souboru
+ jako je encyklopedie Wikipedie), nebo naopak uzavírají smlouvy, které jsou
+ ze zákona neplatné (například autor zaměstnaneckého díla uděluje licenci
+ komerčnímu nakladatelství neplatně, pokud nemá licenční smlouvu se zaměstnavate
+lem).
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Nepřístupnost pro uživatele
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Pokud mají být zaměstnanecká díla legálně zpřístupněna žákům, studentům,
+ absolventům a veřejnosti, musí zaměstnavatel udělit licenci k jejich užití.
+ Pokud zaměstnavatel svá práva nevykonává, může se jejich svévolného výkonu
+ chopit zaměstnanec, například vydá knihu u externího nakladatelství na
+ základě smlouvy, která je od počátku neplatná.
+ Jednání takového zaměstnance je protiprávní, neboť zaměstnanec měl zaměstnavate
+le správně požádat o udělení licence.
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+58 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+3 AZ
+\end_layout
+
+\end_inset
+
+ K takto vydané knize si zpravidla osobuje výhradní práva nakladatelství,
+ které brání zpřístupnění mimo papírovou kni\SpecialChar \-
+žní produkci, neboť právě z
+ prodeje výtisků má většinou největší zisk.
+ Místo poslání školy tak majetková práva autorská slouží komerčnímu zájmu.
+ Cílem není nejvyšší dostupnost, ale o nejvyšší zisk, a to je v rozporu
+ se zájmem společnosti, která tvorbu zaměstnaneckých děl na školách financuje.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Nemožnost regulace
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Pokud škola nemá jasnou vnitřní úpravu zaměstnaneckých děl, nemůže ani ovlivňova
+t jejich tvorbu, oceňovat učitele vytvářející nejlepší studijní materiály,
+ zpřístupňovat studijní materiály svým studentům a veřejnosti, vydávat je
+ vlastním jménem a nákladem, zvyšovat svou prestiž ediční politikou a často
+ ani nemůže efektivně sdílet materiály mezi jednotlivými vyučujícími.
+ U velkých českých univerzit je až 80
+\begin_inset space ~
+\end_inset
+
+% knih vydáváno u externích nakladatelství.
+\begin_inset CommandInset citation
+LatexCommand cite
+after "s. 4"
+key "Stech2013"
+
+\end_inset
+
+ Většina z nich jsou díla aspoň 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz kapitolu
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Castecne-zamestnanecke"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+částečně zaměstnanecká.
+ Škola pak nemůže ovlivnit kvalitu vydávaných knih, které jsou spojovány
+ s jejím jménem, ani jejich dostupnost pro studenty.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Často pak na vysokých školách dochází k situaci, kdy učitel požaduje po
+ studentech, aby si zakoupili ke zkoušce jeho knihu napsanou v pracovní
+ době a vykázanou v rámci publikační činnosti.
+ Knihu přitom draze prodává soukromé komerční nakladatelství a učiteli z
+ jejího prodeje vyplácí podíl.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Varianty vnitřní úpravy
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Varianty-vnitrni-upravy"
+
+\end_inset
+
+Lze rozlišit následující možné typy přístupu k řešení praktických problémů
+ spojených se zaměstnaneckými díly:
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Přehlížení zaměstnaneckých děl 
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Škola neupravuje vytváření, evidenci ani zpřístupnění zaměstnaneckých děl.
+ Míra šíření materiálů v takovém případě závisí na zaměstnancích, kteří
+ jsou jejich autory.
+ Zpravidla jde o nepříliš výnosné publikace malého rozsahu, u kterých se
+ nevyplatí žádný jiný přístup.
+ Anarchie v oblasti výukových materiálů, které jsou zaměstnaneckými díly,
+ je typická pro základní a střední školy.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Přenechání výkonu práv zaměstnanci
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Škola se fakticky vzdává svého výsadního postavení zaměstnavatele ve vztahu
+ k nakládání se zaměstnaneckými díly.
+ Na některých předních světových univerzitách je taková situace považována
+ za tradiční právo zaměstnanců a je jim přiznána vnitřním předpisem.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Porovnání předních světových univerzit.
+ Dostupné na webu 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://web.mit.edu/committees/ip/policies.html
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\end_inset
+
+ Podobný postup používá v České republice Univerzita Palackého v Olomouci,
+ která výkon práv přenechává autorovi.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Směrnice rektora UP č.
+ B3-09/2-SR, o ediční činnosti Univerzity Palackého v Olomouci.
+ 
+\end_layout
+
+\begin_layout Quote
+(5) Zaměstnavatel šetří zákonem uznané akademické svobody, jakož i ústavně
+ zaručenou svobodu projevu a vědeckého bádání též tím, že ponechává akademickému
+ pracovníkovi výkon majetkových práv autorských k zaměstnaneckému dílu (volný
+ výkon práv akademickým pracovníkem).
+ 
+\end_layout
+
+\begin_layout Quote
+(6) Ustanovení odstavce 5 neplatí pro případ, kdy je zaměstnanecké dílo
+ vyjádřením výsledku práce, který vyplývá z plnění: 
+\end_layout
+
+\begin_layout Quote
+a) grantových projektů nebo jiných obdobných činností zaměstnavatele účelově
+ financovaných z veřejné podpory na základě zvláštního zákona, 
+\end_layout
+
+\begin_layout Quote
+b) pracovních úkolů akademického pracovníka souvisících s konferencemi nebo
+ podobnými akcemi pořádanými zaměstnavatelem (včetně konferenčních sborníků
+ apod.) anebo v souvislosti s akcemi, na které zaměstnavatel pracovně vysílá
+ akademického pracovníka, 
+\end_layout
+
+\begin_layout Quote
+c) jiných pracovních úkolů akademického pracovníka, jestliže tak rozhodne
+ zaměstnavatel v souladu se svým hospodářským nebo jiným oprávněným zájmem.
+\end_layout
+
+\begin_layout Plain Layout
+Dostupný na webu 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.upol.cz/fileadmin/user_upload/dokumenty/SRB3-09-2_opravena_31032010.pdf
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+ Výkon práv k zaměstnaneckému dílu ponechává autorovi též Masarykova univerzita.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Směrnice MU č.
+ 10/2013, o duševním vlastnictví na Masarykově univerzitě, ve znění účinném
+ od 1.
+ 9.
+ 2013, stanoví:
+\end_layout
+
+\begin_layout Quote
+MU ponechává výkon majetkových práv autorských svým zaměstnancům k zaměstnanecký
+m dílům, která vznikla za účelem publikace v odborných časopisech nebo sbornícíc
+h z konferencí (dále jen „zaměstnanecká díla s ponechaným výkonem majetkových
+ práv“).
+\end_layout
+
+\begin_layout Plain Layout
+Zároveň ovšem předepisuje celou řadu omezení a podmínek, které přenechání
+ výkonu práv k zaměstnaneckému dílu relativizují.
+\end_layout
+
+\end_inset
+
+ K přenechání výkonu práv je třeba předchozí písemný souhlas správní rady
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+15 odst.
+ 1 písm.
+ b) ZVŠ
+\end_layout
+
+\end_inset
+
+ veřejné vysoké školy, přesahuje-li hodnota práv k zaměstnaneckým dílům
+ částku 20 mil.
+ Kč.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Výkon práv k zaměstnaneckým dílům
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Škola upravuje nakládání se zaměstnaneckými díly ve svém vnitřním předpise
+ tak, že potvrzuje výkon majetkových práv k zaměstnaneckým dílům uvedený
+ v zákoně a zakládá pravidla pro evidenci těchto děl.
+ Podle povahy díla a dalších okolností je statutární orgán školy, případně
+ představitel její součásti tato práva oprávněn vykonávat.
+ Tuto možnost využívá většina univerzit.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Bod 3.4 opatření rektora UK č.
+ 40/2009, o nakládání s výsledky výzkumu, vývoje a inovací na Univerzitě
+ Karlově v Praze.
+ Dostupná z webu 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.cuni.cz/UK-3713.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Bod 4 směrnici rektora VŠE s názvem Ochrana a realizace práv duševního vlastnict
+ví jako výsledku výzkumu, vývoje a inovací nebo vytvořeného jinak na VŠE
+ (SR 01/2011).
+ Dostupná z webu 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.vse.cz/predpisy/271
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+ Je však třeba dodat, že vysoké školy dodržování takového předpisu často
+ dostatečně nekontrolují a nevymáhají.
+ To způsobuje, že někteří autoři svá zaměstnanecká díla neoprávněně zpeněžují
+ u soukromých nakladatelství, nicméně takové smlouvy jsou ze zákona neplatné
+ a jimi získaný prospěch je bezdůvodným obohacením.
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+580 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 NOZ
+\begin_inset Newline newline
+\end_inset
+
+[§
+\begin_inset space \thinspace{}
+\end_inset
+
+39 ObčZ]
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+V rámci výkonu práv k zaměstnaneckým dílům lze rozlišovat dva základní přístupy,
+ které se však nemusí vyskytovat izolovaně, ale jsou na většině škol kombinovány
+:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+\series bold
+Zpeněžení
+\series default
+ 
+\series bold
+zaměstnaneckých děl
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Škola zřizuje střediska pro zpeněžení autorských práv, patentových práv
+ a jiných majetkových práv.
+ V případě patentových práv tato střediska mohou vydělávat na faktickém
+ postoupení těchto práv podnikatelům (například průmyslovým závodům).
+ V případě autorských práv škola vydává díla vlastním nákladem nebo opravňuje
+ za úplatu k vydání zaměstnaneckého díla soukromé nakladatelství výhradní
+ licencí.
+ V případě českých školních nakladatelství (např.
+ Nakladatelství Karolinum v rámci UK) se však často jedná jen o zpeněžení
+ zdánlivé, neboť nadpoloviční příjem těchto nakladatelství často tvoří dotace
+ z veřejných prostředků v rozpočtu školy.
+ Ve světě však existují u velkých škol s mezinárodním portfóliem i zisková
+ nakladatelství (např.
+ univerzita v Cambridge, UK
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Podle výroční zprávy za rok 2013 mělo nakladatelství univerzity v Cambridge
+ celkový obrat 261,7 mil.
+ liber, přičemž zisk před zdaněním činil 8,2 mil.
+ liber.
+ Zdroj: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.cambridge.org/about-us/who-we-are/annual-report1/chief-executives-overv
+iew/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Otevřený přístup k zaměstnaneckým dílům
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Stejně tak může škola využít svých oprávnění, aby zaměstnanecké dílo zpřístupnil
+a veřejnosti.
+ Při takovém zpřístupnění škola nesleduje přímý majetkový či hospodářský
+ prospěch.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Otevřený přístup k vědeckým a vzdělávacím materiálům, které lze bez omezení
+ kopírovat (a tedy kopie není z ekonomického hlediska vzácný statek), však
+ nevylučuje obchodní model, který by vedl k majetkovému či hospodářskému
+ prospěchu.
+ V takovém modelu škola zpeněžuje služby a jiné statky, které jsou vzácné
+ (např.
+ certifikace absolventů otevřených kurzů, poradenství, specializované semináře
+ a jiné).
+\end_layout
+
+\end_inset
+
+ Naplňuje tím však lépe své poslání šířit vzdělanost ve společnosti.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "OA"
+
+\end_inset
+
+K politice otevřeného přístupu se přidaly v oblasti výzkumu přední světové
+ univerzity.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Modelová politika Open Access.
+ Dostupný z webové stránky 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://osc.hul.harvard.edu/modelpolicy
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ V České republice se k otevřenému principu přihlásily Masarykova univerzita
+ a Akademie věd.
+ Částečně i ve vztahu k vzdělávacím materiálům se k němu formálně přihlásila
+ též Univerzita Karlova v Praze.
+\begin_inset CommandInset citation
+LatexCommand cite
+after "s. 8"
+key "Stech2013"
+
+\end_inset
+
+ Na řadě vzdělávacích pracovišť je však dostupnost studijních materiálů
+ v elektronické podobě prakticky samozřejmostí.
+ Některé univerzity se přidaly k plnému otevřenému přístupu také v oblasti
+ vzdělávání a učebních textů.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Velice široký otevřený přístup má např.
+ Polytechnická škola v Otago na Novém Zélandě.
+ Dostupný na webové stránce 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://wikieducator.org/Otago_Polytechnic/Intellectual_property
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ Z otevřeného přístupu lze uplatnit výjimku, pokud o ni tvůrce v konkrétním
+ případě požádá.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+K přenechání výkonu práv k zaměstnaneckým dílům zaměstnancům je třeba přijmout
+ kritický přístup.
+ Škola se dobrovolně vzdává majetku, který byl vytvořen za peníze z veřejných
+ rozpočtů (narozdíl od zaměstnaneckých děl na předních univerzitách, které
+ jsou soukromé).
+ Takové nakládání s majetkem může být v rozporu se zásadou hospodárnosti
+ 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+20 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 ZVŠ
+\end_layout
+
+\end_inset
+
+ a využití majetku k poslání školy.
+ Pochybnosti vyvolává také fakt, že učitel rozhoduje o povinné literatuře
+ ke zkoušce, a ovlivňuje tak prodejnost vlastních knih, za což pak platí
+ studenti.
+ Příjemcem zisku z veřejného kapitálu by zásadně nemělo být soukromé nakladatels
+tví.
+ Přenechání práv autorovi dává také učiteli možnost zakázat studentům, aby
+ např.
+ v rámci školy šířili nahrávky přednášek nebo své vlastní zápisky, neboť
+ ty jsou zpracováním původní přednášky a bylo by k tomu třeba souhlasu nositele
+ práv.
+ Kdyby škola přenechala práva na přednášku jako zaměstnanecké dílo, musela
+ by je pak zvlášť získávat sama např.
+ při vydávání skript či televizním vysílání přednášek, což by znamenalo
+ nutnost platit podruhé za stejnou přednášku.
+ V neposlední řadě je přenechání výkonu práv právně problematické, neboť
+ jde o převod vlastnického práva, k němuž musí dojít zákonem předvídanou
+ dohodou.
+ Školy však často nevědí, zda budou chtít vykonávat práva u konkrétního
+ díla, a tak nepřijatelně připouští možnost následného jednostranného zpětného
+ převzetí výkonu majetkových práv.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "Varianty-zaver"
+
+\end_inset
+
+Posláním škol je šíření vzdělanosti.
+ Z výše uvedených variant mám proto za to, že nejvhodnějším postupem je
+ otevřený přístup k zaměstnaneckým dílům, který bude v určitých zvláštních
+ případech doplněn jejich zpeněžením nebo jiným přístupem podle žádosti
+ autora.
+ Politikou otevřeného přístupu ve vztahu k zaměstnaneckým dílům se proto
+ budu dále zabývat.
+\end_layout
+
+\begin_layout Subsection
+Pracovněprávní vztahy
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Pracko"
+
+\end_inset
+
+Pracovněprávní vztahy upravuje zákon č.
+ 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů (dále též zkráceně
+ 
+\begin_inset Quotes gld
+\end_inset
+
+ZP
+\begin_inset Quotes grd
+\end_inset
+
+).
+ Zaměstnanec je v pracovněprávním vztahu povinen
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+2 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 ZP
+\end_layout
+
+\end_inset
+
+ plnit pokyny zaměstnance.
+ V pracovní smlouvě je typicky vymezen pouze druh práce.
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+34 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 písm.
+\begin_inset space ~
+\end_inset
+
+a) ZP
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Podstatou výkonu závislé práce je skutečnost, že pracovní pokyny udílí zaměstnav
+atel jednostranně.
+ Zejména na vysokých školách je třeba dbát, aby pokyny nezasahovaly do svobody
+ vědeckého bádání a umělecké tvorby.
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+čl.
+ 15 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+2 Listiny
+\end_layout
+
+\end_inset
+
+ Úprava majetkových vztahů k zaměstnaneckým dílům však do této svobody však
+ zpravidla ani není způsobilá zasáhnout.
+ Pracovní pokyny lze udílet i obecným způsobem, potom hovoříme o vnitřních
+ normativních instrukcích nebo o normativních řídících aktech, které mohou
+ být přijímány též formou vnitřního předpisu.
+ (Pojem vnitřního předpisu má ovšem specifický význam v zákoníku práce a
+ v zákoně o vysokých školách.)
+\end_layout
+
+\begin_layout Standard
+Z hlediska zákoníku práce vnitřní předpis
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+305 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 ZP
+\end_layout
+
+\end_inset
+
+ pro jednotlivé funkce blíže upřesňuje jednotlivé povinnosti zaměstnance
+ stanovené zákonem nebo vyplývající ze smlouvy.
+ Takovou povinností je i povinnost zaměstnance střežit
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+301 písm.
+ d) ZP
+\end_layout
+
+\end_inset
+
+ a ochraňovat majetek zaměstnavatele před poškozením, ztrátou, zničením
+ a zneužitím a nejednat v rozporu s oprávněnými zájmy zaměstnavatele.
+ Majetkem zaměstnavatele je i zaměstnanecké dílo.
+ Zaměstnavatel může stanovit pravidla pro evidenci, označování a zpřístupněním
+ zaměstnaneckých děl v souladu s posláním školy.
+ Jde pouze o konkretizaci zákonné povinnosti zaměstnance, nikoliv o zavedení
+ nové povinnosti, což by bylo zákoníkem práce 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+305 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 ZP
+\end_layout
+
+\end_inset
+
+zakázáno.
+\begin_inset CommandInset citation
+LatexCommand cite
+after "s. 612"
+key "Hurka2014"
+
+\end_inset
+
+ Je povinností vedoucích zaměstnanců,
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+302 písm.
+ f) ZP
+\end_layout
+
+\end_inset
+
+ aby zabezpečovali dodržování vnitřních předpisů.
+\end_layout
+
+\begin_layout Standard
+Na vysokých školách upravuje tuto problematiku typicky vnitřní mzdový předpis.
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+17 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 písm.
+\begin_inset space \thinspace{}
+\end_inset
+
+c) ZVŠ
+\end_layout
+
+\end_inset
+
+ Vnitřní předpis ve smyslu zákona o vysokých školách je zároveň vnitřním
+ předpisem vydaným zaměstnavatelem podle zákoníku práce, byť obecně to pochopite
+lně neplatí.
+ Vnitřní mzdový předpis stanoví obecným způsobem okruh úkolů, které pro
+ zaměstnavatele plní zaměstnanci na určitých pracovních pozicích.
+ Díla vzniklá při plnění těchto úkolů jsou 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+srovnej pozn.
+ pod čarou
+\begin_inset Newline newline
+\end_inset
+
+č.
+ 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "fn:Rozhodnuti-zamdilo-druh"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ proto zaměstnanecká.
+\end_layout
+
+\begin_layout Standard
+Příkladem může být vnitřní úprava na Univerzitě Karlově v Praze.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+VI.
+ úplné znění vnitřního mzdového předpisu Univerzity Karlovy v Praze ze dne
+ 18.
+ června 2013.
+ Dostupné na 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.cuni.cz/UK-4343-version1-uzvimzdyuk.pdf
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ Tvůrčí činnost a publikace výsledků je podle vnitřního mzdového předpisu
+ předpokladem všech pracovních pozic uvedených v Katalogu prací pro akademické
+ a vědecké pracovníky.
+ Díla vytvořená v rámci plnění této publikační povinnosti jsou tedy zaměstnaneck
+ými díly, neboť vznikají ke splnění povinnosti z pracovněprávního poměru.
+ Majetková autorská práva k nim vykonává ze zákona zaměstnavatel (v tomto
+ případě UK).
+ Uvádí to také příslušné opatření rektora, podle něhož přísluší nakládání
+ s těmito právy děkanovi.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Opatření rektora UK č.
+ 7/2014 ze dne 30.
+ 1.
+ 2014, o nakládání s výsledky výzkumu, vývoje a inovací na Univerzitě Karlově
+ v Praze.
+ 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.cuni.cz/UK-5588.html
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Důležitým pravidlem pro výkon závislé práce je zákaz konkurence.
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+304 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 ZP
+\end_layout
+
+\end_inset
+
+ Zákaz konkurence znamená, že zaměstnanec nesmí vykonávat vedle svého zaměstnání
+ v základním pracovněprávním vztahu
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Základními pracovněprávními vztahy jsou pracovní poměr a právní vztahy založené
+ dohodami o pracích konaných mimo pracovní poměr (§
+\begin_inset space \thinspace{}
+\end_inset
+
+3 věta druhá ZP).
+\end_layout
+
+\end_inset
+
+ vykonávat výdělečnou činnost, která je shodná s předmětem činnosti zaměstnavate
+le, pokud nemá jeho předchozí písemný souhlas.
+ 
+\end_layout
+
+\begin_layout Standard
+Zákaz konkurence se však v případě tvorby autorských děl mimo zaměstnání
+ neuplatní.
+ Zákoník práce totiž výslovně stanoví,
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+304 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+3 ZP
+\end_layout
+
+\end_inset
+
+ že se zákaz konkurence nevztahuje na výkon vědecké, pedagogické, publicistické,
+ literární a umělecké činnosti.
+ Z toho vyplývá, že zaměstnavatel musí najít jiný způsob, jak zajistit,
+ aby si zaměstnanec na úkor zaměstnavatele nepřivlastňoval práva k dílům,
+ která ve skutečnosti vznikla jako zaměstnanecká.
+ 
+\end_layout
+
+\begin_layout Standard
+Výjimka ze zákonného zákazu konkurence by měla být zohledněna při přípravě
+ vnitřních předpisů, aby mohl zaměstnavatel zřetelně rozlišit díla, která
+ byla vytvořená v rámci povinností vyplývajících z pracovněprávního vztahu
+ a která vytvořil zaměstnanec pro své vlastní účely.
+ 
+\end_layout
+
+\begin_layout Subsection
+Zaměstnanecká díla a otevřený přístup
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Otevreny-pristup"
+
+\end_inset
+
+Závěrem této části si dovolím poznámku k postavení zaměstnaneckých děl v
+ systému otevřeného přístupu.
+ Otevřený přístup (Open Access) je termín, který se obvykle používá zejména
+ ve vztahu k vědeckým a výzkumným článkům.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bartosek2009"
+
+\end_inset
+
+ V tomto textu vycházím z následující definice
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Plankova2007"
+
+\end_inset
+
+ 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+otevřený přístup
+\end_layout
+
+\end_inset
+
+otevřeného přístupu:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+Otevřený přístup
+\series default
+ zahrnuje trvalý a bezplatný online přístup k dokumentům, zejména úplným
+ textům, pro všechny uživatele.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Lze tedy mluvit o otevřeném přístupu ke všem dílům.
+ Zaměstnanecká díla nejsou jen výzkumné články, ale také skripta a jiná
+ pedagogická díla.
+ Dalším typem děl, na která se vztahuje otevřený přístup, budou nepochybně
+ 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+47b ZVŠ
+\end_layout
+
+\end_inset
+
+studentské kvalifikační práce, byť nejde o díla zaměstnanecká, ale školní.
+\end_layout
+
+\begin_layout Standard
+Vymezení děl, na která se vztahuje otevřený přístup, je jedním z aspektů
+ politiky otevřeného přístupu, která by měla být základním východiskem i
+ pro úpravy týkající se zaměstnaneckých děl.
+ 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+politika otevřeného přístupu
+\end_layout
+
+\end_inset
+
+Politikou otevřeného přístupu rozumíme dokument, ve kterém jsou shrnuty
+ zásady otevřeného přístupu na některé instituci.
+ Podle původce se rozlišují politika výzkumné instituce a politika grantové
+ agentury.
+ Politika otevřeného přístupu je nyní zakotvena i na evropské úrovni.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Doporučení Komise 2012/417/EU ze dne 17.
+ července 2012, o přístupu k vědeckým informacím a jejich uchovávání.
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+V tomto dokumentu se zaměřuji na politiku otevřeného přístupu výzkumné instituce.
+ Lze vyjít ze shrnujících doporučení z Harvardské univerzity,
+\begin_inset CommandInset citation
+LatexCommand cite
+key "GoodOA"
+
+\end_inset
+
+ jakož i její modelové politiky otevřeného přístupu 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz dodatek
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Model-OA"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+přeložené v dodatku.
+ Tato doporučení dávají jasně najevo, že otevřený přístup nevyžaduje, aby
+ publikovali jen v některých časopisech (tzv.
+ zlatá cesta otevřeného přístupu s volně dostupnými časopisy), a že se zachovává
+ možnost výjimek v jednotlivých případech.
+ 
+\end_layout
+
+\begin_layout Standard
+Pokud jde o finanční motivaci autorů k tvorbě, její pravidla by měla být
+ upravena v mzdovém předpise, ve statutu různých cen pro nejkvalitnější
+ a nejpřínosnější zaměstnanecká díla, jakož i v pravidlech pro uznání publikací
+ pro účely habilitačního řízení a řízení ke jmenování profesorem.
+\end_layout
+
+\begin_layout Subsection
+Dílo částečně zaměstnanecké 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Castecne-zamestnanecke"
+
+\end_inset
+
+Základní podmínkou účinné vnitřní úpravy je vymezit jasně, které dílo zaměstnanc
+e je zaměstnaneckým dílem a které je jeho soukromým autorským dílem.
+ S touto otázkou se musí zaměstnavatel vypořádat ve svém vnitřním předpise.
+ Nepochybně lze velmi jasně identifikovat dvě základní skupiny autorských
+ děl, která jsou 
+\end_layout
+
+\begin_layout Itemize
+čistě zaměstnanecká (jako jsou například přednášky, vědecké články, cvičebnice,
+ vědecké zprávy apod.),
+\end_layout
+
+\begin_layout Itemize
+čistě autorská (díla umělecká mimo vědeckou činnost, díla vytvořená zaměstnancem
+ čistě ve volném čase).
+\end_layout
+
+\begin_layout Standard
+Mezi těmito skupinami je šedá zóna.
+ U každého jednotlivého díla by soud posuzoval, zda vyhovuje 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz kapitolu 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Pojmovy-znak-ZD"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+pojmovému znaku zaměstnaneckého díla.
+ 
+\end_layout
+
+\begin_layout Standard
+Autoři své vědecké články, případně svoji přednášku zpracovávají do knihy.
+ V takovém případě zpracovávají zaměstnanecké dílo.
+ Zpracovatelem zaměstnaneckého díla pochopitelně nemusí být jen autor, ale
+ i jiný zaměstnanec školy nebo její student.
+ V případě zpracování zaměstnaneckého díla mluvím o díle částečně zaměstnaneckém
+, což vystihuje podstatu, že část zpracovaného díla tvoří zaměstnanecké
+ dílo.
+ Autorskoprávní nauka mluví o díle odvozeném.
+\end_layout
+
+\begin_layout Standard
+Zpracováním nejsou nijak dotčena práva původního 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz kapitolu
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "Zpracovani"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+nositele práv k zaměstnaneckému dílu.
+ Autor zpracovávající zaměstnanecké dílo musí mít souhlas nositele práv
+ (zaměstnavatele), pokud chce výsledné dílo užít nebo k němu udělit licenci,
+ např.
+ vydavateli.
+ Povinnosti mít licenci k původnímu dílu se totiž nelze vyhnout tím, že
+ se dílo nějak upraví či zpracuje, nýbrž bylo by nutné vytvořit zcela nové
+ dílo, kde bude stejná myšlenka vyjádřena odlišně a nezávisle.
+ Jinou věcí je však skutečnost, že v některých případech může být obtížné
+ prokázat, že původní dílo bylo zaměstnanecké.
+ 
+\end_layout
+
+\begin_layout Standard
+Škola má samozřejmě podporovat i motivovat autory, aby vytvářeli vlastní
+ autorská díla i mimo pracovní poměr, pokud to není na úkor jejímu poslání.
+ Sporným případům je vhodné předcházet.
+ V úvahu přicházejí následující nástroje:
+\end_layout
+
+\begin_layout Enumerate
+Důsledné uchovávání zaměstnaneckých děl (například prezentací z přednášek,
+ článků apod.), ze kterých bude možné v případě potřeby prokázat, že původní
+ dílo bylo zaměstnanecké.
+ Tyto záležitosti řeší 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz dále kapitolu 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sec:Stadia"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+komplexní politika otevřeného přístupu zahrnující zaměstnanecká díla.
+\end_layout
+
+\begin_layout Enumerate
+Sporné publikace (např.
+ monografie) řešit zvláštní dohodou, ve které smluvní strany
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+vyloučí režim zaměstnaneckého díla pro jednotlivé dílo a škola obdrží odměnu
+ za přenechání copyrightu autorovi,
+\end_layout
+
+\begin_layout Enumerate
+potvrdí režim zaměstnaneckého díla a zaměstnavatel udělí autorovi licenci
+ k zamýšlenému způsobu užití díla za odpovídající odměnu pro školu, nebo
+\end_layout
+
+\begin_layout Enumerate
+potvrdí režim zaměstnaneckého díla, zaměstnavatel bude řešit publikaci přímo
+ s vydavatelstvím a autorovi vyplatí dodatečnou odměnu za komercionalizaci.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Motivovat autory k tomu, aby jednali ve vztahu k zaměstnaneckým dílům v
+ majetku škody poctivě, např.
+ udělováním odměn za nejlepší zaměstnanecká díla (a to jak z hlediska učitelů,
+ tak studentů), pravidelným zohledněním přínosu publikační aktivity a otevřenost
+i výsledků v osobním hodnocení zaměstnance.
+\end_layout
+
+\begin_layout Standard
+V každém případě by měl být přístup zvolen tak, aby nedocházelo k omezování
+ svobody bádání a šíření poznatků, tj.
+ aby měl autor implicitní možnost šířit za podmínky, že třetí strana nebude
+ z majetkových práv školy těžit na její úkor.
+ 
+\end_layout
+
+\begin_layout Standard
+Pro tento účel je možné dát autorovi možnost udělit jménem školy licenci,
+ kterou v tomto textu 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz dále kapitolu 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Otevreny-pristup-licencovani"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+označuji jako školní.
+ Okruh dovolených licencí je třeba volit i s ohledem na šíření děl částečně
+ zaměstnaneckých.
+ Příklad takových pravidel v návaznosti na dále provedený rozbor 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz dodatek
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Vnitrni-predpis"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+uvádím v dodatku.
+ 
+\end_layout
+
+\begin_layout Standard
+Jakýkoliv jiné licence je třeba 
+\emph on
+ad hoc
+\emph default
+ ujednat samostatnou smlouvou.
+ 
+\end_layout
+
+\begin_layout Section
+Stádia zpřístupnění
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Stadia"
+
+\end_inset
+
+ Otevřeným přístupem se politika zaměstnaneckých děl nevyčerpává.
+ Zatímco otevřený přístup se z právního hlediska omezuje jen na právo sdělování
+ díla veřejnosti, status zaměstnaneckého díla poskytuje zaměstnavateli nejširší
+ představitelný souhrn majetkových oprávnění k dílu omezený jen dílčími
+ právy jiných osob (tzv.
+ právní panství nad autorským dílem).
+ 
+\end_layout
+
+\begin_layout Standard
+Problém správy zaměstnaneckých děl ovšem spočívá v tom, že nejsou konzistentně
+ označena, evidována a zpřístupněna po faktické i právní stránce.
+ Řada aspektů je společná s 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz kapitolu
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Otevreny-pristup"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+politikou otevřeného přístupu, jak jsem ji zmínil výše.
+ 
+\end_layout
+
+\begin_layout Subsection
+Označení
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Oznaceni"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Označením
+\series default
+ zaměstnaneckého díla
+\series bold
+ 
+\series default
+rozumíme každý údaj, z něhož je patrné, že majetková práva vykonává zaměstnavate
+l.
+ Údaj může být umístěn přímo na díle (např.
+ na titulní stránce knihy, v závěrečných titulkách filmu) nebo může být
+ sdělován veřejnosti spolu s dílem (například informace uvedená na internetových
+ stránkách, kde lze knihu stáhnout).
+ Pokud není dílo takto označeno, lze doporučit předřazení listu s katalogizačním
+i údaji (viz úvodní list v tomto textu).
+ 
+\end_layout
+
+\begin_layout Standard
+Takovým označením může být klasická formule 
+\end_layout
+
+\begin_layout Quote
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+copyright}
+\end_layout
+
+\end_inset
+
+ Univerzita Karlova v Praze, 2013.
+ 
+\end_layout
+
+\begin_layout Standard
+Autor díla může být uveden způsobem, které je u díla obvyklé (u nadpisu),
+ případně může být jako autor uveden v rozšířené verzi této patičky:
+\end_layout
+
+\begin_layout Quote
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+copyright}
+\end_layout
+
+\end_inset
+
+ Univerzita Karlova v Praze, 2013
+\begin_inset Newline newline
+\end_inset
+
+Autor: Jakub Michálek.
+ 
+\end_layout
+
+\begin_layout Standard
+Označení symbolem copyrightu pochází 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+čl.
+ 3 Všeobecné úmluvy o autorském právu z roku 1952
+\end_layout
+
+\end_inset
+
+z mezinárodních smluv.
+ Vyjadřuje nárok, který si jeho nositel činí na copyright k danému dílu.
+ Nemá dnes prakticky žádný vliv na autorská práva k dílu, má však důležitý
+ informační význam.
+ Dává uživatelům najevo, že zaměstnanecké dílo není volným dílem, ale že
+ jeho uživatel musí splnit podmínky stanovené nositelem práv nebo zákonem.
+ 
+\end_layout
+
+\begin_layout Standard
+Autoři často o statutu zaměstnaneckého díla netuší.
+ Proto je třeba, aby zaměstnavatel zaměstnance proškolil ohledně nutnosti
+ zaměstnanecká díla odpovídajícím způsobem označovat, aby nemohlo v budoucnu
+ dojít k záměně děl zaměstnaneckých a čistě autorských.
+ Pokud však zaměstnavatel zavede systém zápisu zaměstnaneckých děl, může
+ se o připojení titulního listu postarat automat.
+\end_layout
+
+\begin_layout Standard
+Při označení díla je také vhodné uvést 
+\end_layout
+
+\begin_layout Itemize
+webovou adresu, na které je zveřejňována aktuální verze díla (např.
+ skript, učebnice, přednáškových prezentací apod.), errata nebo adresa pro
+ zasílání připomínek,
+\end_layout
+
+\begin_layout Itemize
+jednoznačný identifikátor díla (například DOI -- 
+\emph on
+digital object identifier
+\emph default
+), pokud byl zaměstnaneckému dílu přidělen,
+\end_layout
+
+\begin_layout Itemize
+licenci, pod kterou je dílo šiřitelné 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz kapitolu 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Vyjimky-z-licence"
+
+\end_inset
+
+ a násl.
+\end_layout
+
+\end_inset
+
+nebo za jakých podmínek byla uplatněna výjimka z otevřeného přístupu.
+\end_layout
+
+\begin_layout Subsection
+Evidence 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Evidencí
+\series default
+ zaměstnaneckých děl rozumíme vedení jejich seznamu s užitečnými údaji.
+ Pro největší užitek by takový seznam měl být pochopitelně veřejný a snadno
+ dostupný.
+ Nová politika zaměstnaneckých děl neznamená, že by bylo nutné zavádět nové
+ evidence.
+ Ve školství totiž existuje celá řada evidencí, které jsou pro tyto účely
+ vhodné.
+ Zaměstnanecké dílo by mělo být evidováno takovým způsobem, který nezatěžuje
+ jeho autora zbytečnou byrokracií.
+ 
+\end_layout
+
+\begin_layout Standard
+Příklady evidencí, ve kterých mohou být uloženy informace o zaměstnaneckých
+ dílech:
+\end_layout
+
+\begin_layout Itemize
+Rejstřík informací o výzkumu v informačním systému výzkumu, experimentálního
+ vývoje a inovací (RIV) -- pro díla vědecká.
+\end_layout
+
+\begin_layout Itemize
+Katalog školní knihovny
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Centrální katalog Univerzity Karlovy v Praze je na webu 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://ckis.cuni.cz/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ -- pro díla evidovaná ve školní knihovně, resp.
+ díla, kterým bylo přiřazeno jednoznačné číslo ISBN, ISSN (dá se očekávat,
+ že se učitel ve vlastním zájmu postará o to, aby bylo ve školní knihovně,
+ kde učí, aspoň několik výtisků jeho knihy).
+\end_layout
+
+\begin_layout Itemize
+Evidence spojená s digitálním objektem, který je jednoznačně označen DOI.
+\end_layout
+
+\begin_layout Standard
+Některé součásti UK již nyní požadují nahlášení zaměstnaneckých děl, protože
+ je to často důležité pro rozpočítání financí u výzkumu na více institucích.
+ Údaje o studijních materiálech zpravidla takto centrálně dostupné nejsou.
+ 
+\end_layout
+
+\begin_layout Standard
+U některých zaměstnaneckých děl (např.
+ Wikiskripta.eu) ani nebude třeba evidenci zaměstnaneckých děl vést.
+ Předpokládá se, že za jednotných licenčních podmínek jsou všechny tvůrčí
+ příspěvky buď díly autorů, kteří k tomu dali souhlas, nebo zaměstnaneckými
+ díly, 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz dále kapitolu 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Licencovani"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ u kterých dala souhlas škola souhlas v zastoupení autorem.
+\end_layout
+
+\begin_layout Standard
+Ovšemže není ani třeba, aby učitel evidoval všechny dokumenty v nějakém
+ centrálním systému.
+ Učitel může informaci o zaměstnaneckém dílu zapsat do libovolného systému,
+ kde jsou zaměstnanecká díla uchována a zpřístupněna na internetových stránkách.
+ V takovém případě je možné dílo nalézt použitím standardních vyhledávačů.
+ 
+\end_layout
+
+\begin_layout Subsection
+Uchování
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Uchovani"
+
+\end_inset
+
+ 
+\series bold
+Uchováním
+\series default
+ rozumím takové uložení díla na elektronické médium v souborovém systému
+ nebo elektronickém informačním systému 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+repozitář
+\end_layout
+
+\end_inset
+
+(repozitáři), které zajišťuje, že bude v dohledné době kdykoliv možné dílo
+ opět zobrazit, případně v něm provést změny.
+ 
+\end_layout
+
+\begin_layout Standard
+Pokud zaměstnanec uchovává zaměstnanecké dílo uchováno jen na svém počítači,
+ zaměstnavatel ho nemůže používat.
+ Dílo uchované v repozitáři je dostupné pro ostatní zaměstnance, snižuje
+ se riziko jeho ztráty nebo ztráty některé jeho složky (například formátu,
+ ve kterém bylo dílo vytvořeno a který může být nezbytný pro jeho plné využití).
+ 
+\end_layout
+
+\begin_layout Standard
+K uchování díla je možné zavést i finanční pobídky.
+ Například jedna z prvních škol na světě zavádějící otevřený přístup – Univerzit
+a v portugalském městě Minho – odměňovala autory nezávisle na hlavní složce
+ jejich mzdy malou finanční odměnou za uložení díla v několika prvních letech
+ po zavedení politiky otevřeného přístupu.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "eps358882"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Druhy repozitářů
+\end_layout
+
+\begin_layout Standard
+K uchování díla se možné používat institucionální repozitáře nebo repozitáře
+ oborové.
+ Podstatné je, aby byl použitý repozitář zárukou trvalého uchování svěřených
+ dat.
+ Není nutné, aby byla uchovaná data zároveň zpřístupněna veřejnosti, lze
+ nastavit rozsah zveřejnění i časový odklad zveřejnění (různé komerční časopisy
+ mají různé lhůty pro zpřístupnění publikovaných textů veřejnosti na internetový
+ch stránkách).
+ 
+\end_layout
+
+\begin_layout Itemize
+Pokud jsou data uchována v elektronickém informačním systému určité instituce
+ (
+\series bold
+institucionálním repozitáři
+\series default
+), může tento systém plnit také potřebné funkce při evidenci, licencování
+ a zpřístupnění.
+ V institucionálním repozitáři má nad zaměstnaneckým dílem zaměstnavatel
+ kontrolu po celou dobu jeho uchování, může nastavit režim jeho zpřístupnění,
+ licence apod.
+ Zaměstnavatel se nemusí spoléhat na externí systémy.
+ Příkladem je institucionální repozitář akademie věd ASEP 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.lib.cas.cz/asep/
+\end_layout
+
+\end_inset
+
+.
+ Instituce může zřídit vlastní repozitář (např.
+ se systémem DSpace
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Viz seznam českých instancí 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.dspace.cz/
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+) nebo uchovávat informace v systému typu wiki (například lékařská Wikiskripta.eu
+).
+ Institucionálním repozitářem svého druhu je i repozitář závěrečných prací.
+ 
+\end_layout
+
+\begin_layout Itemize
+U zaměstnaneckých děl publikovaných na jiných platformách (například v Open
+ Access časopisech, v 
+\series bold
+oborových repozitářích
+\series default
+ apod.) je uchování svěřeno externímu systému.
+ Jeho nastavením se často řídí i licencování a zpřístupnění, tedy škola
+ se těmito aspekty nemusí vůbec zabývat (s výjimkou případného výkaznictví
+ pro účely financování výzkumu).
+ Příkladem systému pro externí uchování je v případě základních škol Metodický
+ portál 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.rvp.cz
+\end_layout
+
+\end_inset
+
+.
+ V oblasti fyziky je např.
+ široce používán portál 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://arxiv.org/
+\end_layout
+
+\end_inset
+
+.
+ Lékařské fakulty v Česku pak využívají publikační platformu MEFANET 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.mefanet.cz/
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Základem trvale udržitelného systému uchování zaměstnaneckých děl je princip
+ autoarchivace.
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+autoarchivace
+\end_layout
+
+\end_inset
+
+ Autoarchivace
+\begin_inset CommandInset label
+LatexCommand label
+name "Autoarchivace"
+
+\end_inset
+
+ znamená, že do repozitáře ukládá dílo sám autor, nikoliv administrativní
+ aparát.
+ Autor může také zpravidla dílo aktualizovat, nastavit rozsah přístupnosti
+ díla (veřejný, institucionální apod.) a případně také může být 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz kapitolu 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Licencovani"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+zmocněn vybrat licenci.
+ 
+\end_layout
+
+\begin_layout Standard
+Podstatná část zaměstnanců výzkumných institucí uvádí, že by svá díla autoarchiv
+ovali, pokud by to jejich instituce vyžadovala.
+ Zavedení povinnosti autoarchivace (
+\emph on
+deposit requirement
+\emph default
+) zvyšuje podíl uchovaných děl přibližně trojnásobně.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "eps358882"
+
+\end_inset
+
+ Povinnost uložit vědecké články v elektronické podobě do institucionálního
+ repozitáře přijaly přední vysoké školy včetně Harvardu a jiných prestižních
+ soukromých škol v USA.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Seznam škol s povinností uchovávat a licencovat vědecké články v režimu
+ otevřeného přístupu obsahuje web 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://roarmap.eprints.org/
+\end_layout
+
+\end_inset
+
+, který je inspirací pro všechny nové právní úpravy publikování.
+ Lze tam nalézt jak přehled publikačních povinností institucionálních, tak
+ grantových.
+\end_layout
+
+\end_inset
+
+ Tím spíše by tak měly činit školy financované daňovými poplatníky.
+\end_layout
+
+\begin_layout Subsubsection
+Podoba uchovaného díla
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Podoba-dila"
+
+\end_inset
+
+Ze zásady výkonu majetkových práv zaměstnavatelem vyplývá požadavek, aby
+ měl zaměstnavatel přístup k celému dílu v podobě, ve které bylo vytvořeno
+ (včetně např.
+ zdrojového kódu programů, upravitelného formátu souborů apod.).
+ Dostupnost zdrojové podoby značně zjednodušuje např.
+ vyhledávání v textu, dodatečné korektury, aktualizaci a převzetí díla jinou
+ osobou, přeformátování díla pro čtečky elektronických knih apod.
+ Pro stručnost mluvme 
+\end_layout
+
+\begin_layout Itemize
+o 
+\series bold
+výstupní podobě
+\series default
+, kterou je standardizovaný a široce dostupný formát, který umožňuje sdílení
+ díla takovým způsobem, aby mělo na všech zařízeních stejný vzhled (v případě
+ knih například formát PDF), a 
+\end_layout
+
+\begin_layout Itemize
+o 
+\series bold
+zdrojové podobě
+\series default
+, kterou je formát, ve kterém bylo dílo skutečně vytvořeno a který umožňuje
+ editaci (například dokument ve formátu MS Word, LibreOffice nebo LaTeX),
+ případně připojit i zdrojová statistická data.
+ 
+\end_layout
+
+\begin_layout Standard
+Uchování zdrojové podoby zaměstnaneckého díla automaticky neznamená, že
+ by tato podoba měla být zpřístupněna.
+ Pokud to však bude autor považovat za rozumné, není důvod, proč by škola
+ měla bránit tomu, aby byla zdrojová podoba dostupná na stejném místě jako
+ uložené dílo ve výstupní podobě.
+ Pokud má být dílo dále zpracováno, lze to i doporučit.
+\end_layout
+
+\begin_layout Standard
+Od podoby díla je třeba odlišit jeho verzi, která se zvyšuje s postupující
+ aktualizací díla.
+ Verze se také rozlišuje podle stavu recenzního řízení či vydání díla (autorský
+ preprint, autorský postprint, vydavatelský postprint).
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Uchování děl malé hodnoty
+\end_layout
+
+\begin_layout Standard
+Uchování v repozitáři se samozřejmě vyplatí používat pouze u hodnotnějších
+ zaměstnaneckých děl (díla, která se vydávají samostatně nebo v časopisech,
+ nebo mají jinou trvalejší hodnotu).
+ V tomto textu a zejména ve vzorových předpisech mluvím o vydávaných dílech.
+\end_layout
+
+\begin_layout Standard
+U méně hodnotných děl (například pracovní listy pro žáky základních škol,
+ zadání písemných prací apod.) stačí, aby byly uchovány na počítačovém serveru
+ zaměstnavatele v nějakém rozumném třídění nebo aby je učitel vystavil na
+ svých webových stránkách, které budou uchovány i po jeho odchodu.
+ Díky tomu bude zajištěna kontinuita při změně učitele a z jeho materiálů
+ bude moci vycházet i jeho nástupce.
+ Naopak je zcela nevhodné, aby byla zaměstnanecká díla umisťována na veřejné
+ úschovny, které dokumenty po určitém čase smažou.
+ 
+\end_layout
+
+\begin_layout Subsection
+Licencování
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Licencovani"
+
+\end_inset
+
+ Tato kapitola je z hlediska právního vymezení zaměstnaneckých děl srdcem
+ našich úvah.
+ Již jsem uvedl přehled možných přístupů k problematice zaměstnaneckých
+ děl.
+ Uzavřel jsem, že jediným přijatelným přístupem je, aby si škola práva k
+ zaměstnaneckým dílům ponechala a zajistila k nim 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz kapitolu
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Varianty-vnitrni-upravy"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+otevřený přístup.
+ 
+\end_layout
+
+\begin_layout Standard
+Otevřený přístup k dílům je zajišťován právně jejich licencováním a fakticky
+ jejich zpřístupněním.
+ Škola musí z právního hlediska přijmout pravidla, která zajistí otevřený
+ přístup, neboť jinak platí zákaz užít dílo bez svolení 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz kapitolu 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Nositel-prav"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+nositele práv.
+ Chybějící vnitřní úprava totiž vyvolává celou řadu otázek při šíření zaměstnane
+ckých děl:
+\end_layout
+
+\begin_layout Itemize
+Bez souhlasu univerzity je zakázáno sdělovat dílo veřejnosti, tj.
+ např.
+ studenti nesmí dávat své poznámky z přednášky ke sdílení na Internet (přednášky
+ jsou zaměstnaneckým dílem, zápisky studenta jsou 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz kapitolu 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Castecne-zamestnanecke"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+zpracováním takového díla).
+ 
+\end_layout
+
+\begin_layout Itemize
+Problémem je v praxi právní nejistota při udělování veřejné licence typu
+ Creative Commons, kterou nemůže autor bez souhlasu UK podle autorského
+ zákona platně udělit, protože majetková práva vykonává výlučně zaměstnavatel.
+ 
+\end_layout
+
+\begin_layout Itemize
+Právní nejistotu rovněž vyvolávají smlouvy uzavírané autory samotnými k
+ zaměstnaneckým dílům, u nichž však nejsou oprávněni disponovat s majetkovými
+ právy a tedy takové smlouvy jsou od počátku neplatné.
+ 
+\end_layout
+
+\begin_layout Standard
+Jinými slovy zákon neupravuje žádný 
+\begin_inset Quotes gld
+\end_inset
+
+benevolentnější režim
+\begin_inset Quotes grd
+\end_inset
+
+ pro šíření autorských děl, k nimž práva náleží veřejným výzkumným nebo
+ vzdělávacím institucím.
+ Výjimkou jsou pouze formální dokumenty a jiná úřední díla, na než se autorské
+ právo
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+3 písm.
+\begin_inset space ~
+\end_inset
+
+b) AZ
+\end_layout
+
+\end_inset
+
+ vůbec nevztahuje, což platí bez ohledu na typ instituce.
+ 
+\end_layout
+
+\begin_layout Standard
+Z toho vyplývá, že musí existovat mechanismus pro široké licencování autorských
+ děl, aby k výše popsaným problémům nedocházelo.
+ Tímto mechanismem je licencování zaměstnavatelem.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Licencováním
+\series default
+ rozumíme udělení licence (souhlasu) k užití zaměstnaneckého díla.
+ Z hlediska školy jako zaměstnavatele jde o to, jak nejlépe stanovit licenční
+ podmínky.
+ Tyto podmínky musí být vzhledem k velkému počtu licencovaných zaměstnaneckých
+ děl určeny obecně.
+ V individuálních případech lze připustit výjimku (jak směrem k širšímu
+ užití, tak směrem k užšímu užití v zájmu komerce).
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Otevřený přístup k zaměstnaneckým dílům
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Otevreny-pristup-licencovani"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Z hlediska efektivity by měl mít sám autor oprávnění udělit některé vymezené
+ licence k užití zaměstnaneckého díla.
+ 
+\end_layout
+
+\begin_layout Standard
+Protože práva vykonává ze zákona zaměstnavatel, nabízí se jako vhodný nástroj
+ právní zastoupení.
+ 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+436 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 NOZ
+\end_layout
+
+\end_inset
+
+Zástupcem je ten, kdo je oprávněn právně jednat jménem jiného; ze zastoupení
+ vznikají práva a povinnosti přímo zastoupenému.
+ 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+166 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 NOZ
+\end_layout
+
+\end_inset
+
+ Školu jako právnickou osobu ze zákona zastupují její zaměstnanci v rozsahu
+ obvyklém vzhledem k jejich zařazení nebo funkci; přitom rozhoduje stav,
+ jak se jeví veřejnosti.
+ Vedle tohoto zákonného zmocnění může škola i smlouvou zmocnit autora k
+ jednání jejím jménem.
+ K udělování licencí je nepochybně vhodnější autora oprávnit ve vnitřním
+ předpise a tím upřesnit rozsah zákonného zástupčího oprávnění autora.
+ 
+\end_layout
+
+\begin_layout Standard
+Licenci, kterou je autor oprávněn v zastoupení školy udělit, nazývám v tomto
+ textu školní licencí.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Školní licenci zavedenou v tomto textu je třeba odlišovat od školního díla
+ podle autorského zákona, které se týká studentů.
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+školní licence
+\end_layout
+
+\end_inset
+
+ Školní licence je koncept licence, kterým škola v přiměřené míře zmocňuje
+ autory, aby mohli v určitém rozsahu jménem školy sami udělit licenční souhlas.
+ Rozsah školní licence se stanoví tak, aby dovolovala otevřený přístup ve
+ smyslu výše uvedené definice a zároveň bránila 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz kapitolu
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Castecne-zamestnanecke"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+zpeněžení díla na úkor školy.
+ Zpeněžením na úkor školy pak mám na mysli převod copyrightu na třetí osobu
+ nebo jiné jednání, které by se příčilo poslání školy v ochraně poznaného.
+ 
+\end_layout
+
+\begin_layout Standard
+Příkladem školní licence je podmínka uvedení autora a nositele práv a doplněná
+ některým z následujících alternativních licenčních prvků:
+\end_layout
+
+\begin_layout Enumerate
+podmínka 
+\series bold
+nekomerčního užití
+\series default
+ (
+\emph on
+non-commercial
+\emph default
+), která brání autorovi a komerčním nakladatelstvím vydělávat na prodeji
+ díla byť částečně zaměstnaneckého; obsah této podmínky se kryje se zákonným
+ pojmem užití za účelem přímého či nepřímého hospodářského či obchodního
+ prospěchu,
+\end_layout
+
+\begin_layout Enumerate
+podmínka 
+\series bold
+zachování licence
+\series default
+ (
+\emph on
+share alike
+\emph default
+), která dovoluje šířit zaměstnanecké dílo a jeho zpracování dále, ale zakazuje
+ na zpracované zaměstnanecké dílo uvalit taková právní omezení, která by
+ v šíření bránila komukoliv jinému.
+ 
+\end_layout
+
+\begin_layout Standard
+Obecná pravidla lze formulovat následovně:
+\end_layout
+
+\begin_layout Enumerate
+Pokud jde o projekty, jejichž licenční podmínky škola schválila, je autor
+ zmocněn umístit své zaměstnanecké dílo do repozitáře projektu a udělit
+ jménem školy potřebný licenční souhlas v souladu s těmito podmínkami.
+\end_layout
+
+\begin_layout Enumerate
+Za podmínek školní licence, kterou si oprávněná osoba vybere, škola opravňuje
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+autora k užití jeho zaměstnaneckého díla,
+\end_layout
+
+\begin_layout Enumerate
+autora k udělení licence jménem školy k užití jeho zaměstnaneckého díla
+ třetí stranou,
+\end_layout
+
+\begin_layout Enumerate
+člena akademické obce školy k užití zaměstnaneckého díla při vnitřní potřebě
+ školy včetně možnosti dálkového přístupu,
+\end_layout
+
+\begin_layout Enumerate
+jinou osobu k užití zaměstnaneckého díla na půdě školy.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Školní licencí rozumíme nevýhradní licenci, která 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+vyžaduje uvedení jména autora a školy způsobem přiměřeným užití,
+\end_layout
+
+\begin_layout Enumerate
+umožňuje oprávněné osobě otevřený přístup podle politiky otevřeného přístupu,
+\end_layout
+
+\begin_layout Enumerate
+obsahuje podmínku zachování licence nebo nekomerčního užití.
+\end_layout
+
+\begin_layout Standard
+Doporučené školní licence jsou uvedeny v tabulce 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Doporucene-skolni-licence"
+
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Není-li u zaměstnaneckého díla, které škola z vlastní iniciativy se souhlasem
+ k tomu příslušných orgánů zpřístupní, uvedena jiná licence nebo výhrada
+ autorského práva, platí, že škola svolila k užití za podmínek školní licence
+ vybrané uživatelem.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Zastupování školy při udělování licence v ostatních případech upravuje vnitřní
+ předpis.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="7" columns="2">
+<features booktabs="true" tabularvalignment="middle" tabularwidth="100text%">
+<column alignment="left" valignment="top" width="32text%">
+<column alignment="left" valignment="top" width="65text%">
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Značka
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Použití
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row interlinespace="default">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+CC-BY-SA 4.0
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename images/by-sa.pdf
+	width 2cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Licence Creative Commons (CC) jsou vhodné pro obrázky, hudbu a texty.
+ Licence slučitelná s wikipedií.
+ Prvek SA vyžaduje, aby odvozená díla byla pod slučitelnou licencí.
+ Licence CC nejsou vhodné pro počítačové programy.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row interlinespace="default">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+CC-BY-NC 4.0
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename images/by-nc.pdf
+	width 2cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Licence pro nekomerční užití.
+ Kvůli nejasnosti vymezení nekomerčního užití doporučuji spíše nepoužívat.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row interlinespace="default">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+CC-BY-NC-SA 4.0
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename images/by-nc-sa.pdf
+	width 2cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Licence pro nekomerční užití.
+ Odvozená díla musí být možné nekomerčně sdílet.
+ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row interlinespace="default">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+GNU GPL v3
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename images/GPLv3_Logo.pdf
+	lyxscale 20
+	width 2cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Všeobecná veřejná licence (GPL).
+ Vhodná pro počítačové programy, tzv.
+ svobodný software.
+ Vyžaduje, aby všechna odvozená díla byla šířena pod kompatibilní licencí.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row interlinespace="default">
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+GNU LGPL v3
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename images/LGPLv3_Logo.pdf
+	lyxscale 20
+	width 2cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Odvozenina 
+\emph on
+Lesser
+\emph default
+ všeobecné veřejné licence může být někdy vhodnější pro programové knihovny.
+ Dovoluje totiž, aby na ni byly napojeny proprietární programy.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row interlinespace="default">
+<cell alignment="left" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+GNU AGPL v3
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename images/AGPLv3_Logo.pdf
+	lyxscale 20
+	width 2cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Odvozenina 
+\emph on
+Affero
+\emph default
+ všeobecné veřejné licence je vhodná pro online služby.
+ Pokud vezmete projekt pod touto licencí, který má v sobě odkaz na zdrojový
+ kód, odvozené dílo musí mít v sobě odkaz, i když na něm jen běží online
+ služba (nikoliv jen při kopírování).
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Doporucene-skolni-licence"
+
+\end_inset
+
+Doporučené školní licence.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+K tomu je třeba uvést stručný komentář:
+\end_layout
+
+\begin_layout Enumerate
+První bod dopadá na projekty Wikiskripta.eu, MEFANET a další repozitáře,
+ na které ukládají učitelé dobrovolně svoje skripta, přičemž tyto repozitáře
+ již byly oficiálně založeny nebo schváleny.
+ Konkrétní výběr licence je součástí podmínek projektu (typicky se používá
+ licence CC-BY nebo CC-BY-SA) a v případě volby z více možností by potřebnou
+ licenci vybral autor.
+ Tímto bodem se řeší problém autorů Wikiskript a podobných projektů, kde
+ autoři nemohli dosud platně udělit licenční souhlas, neboť tento souhlas
+ byl oprávněn udělit jen zaměstnavatel.
+\end_layout
+
+\begin_layout Enumerate
+Druhý bod se týká všech ostatních případů, kde škola zmocňuje autora nebo
+ jinou osobu k zastupování školy pro všechny obvyklé případy, kdy bude vhodné
+ zajistit bezproblémové šíření.
+ Za prvé autora opravňuje k tomu, aby zaměstnanecké dílo sám užil, a to
+ opět za podmínek školní licence.
+ Je plně na autorovi, aby si v mezích školní licence zvolil vhodné právní
+ podmínky šíření svého díla.
+ Dále bod zakotvuje princip, že užití zaměstnaneckého díla na půdě školy
+ nebo pro její vnitřní potřebu je vždy dovolené za podmínek některé z uvedených
+ školních licencí, a to podle volby uživatele.
+ Bude tedy možné, aby učitel nebo student v rámci e-learningu dostupného
+ pouze akademické obci bez dalšího použil zaměstnanecké dílo, aby se promítal
+ zaměstnanecko studentský film nebo aby se předčítala zaměstnanecká kniha
+ ve školní aule.
+ Tento bod tak řeší problém, že jinak může být jinak student trestně stíhán
+ z důvodu, že do školní sítě nahraje zaměstnanecké dílo některého učitele
+ (což se již také stalo).
+ Díky tomuto bodu bude moci student šířit svoje poznámky z kursu (které
+ jsou zpracováním přednášky jakožto zaměstnaneckého díla) a sdílet je s
+ kolegy studenty, mimo univerzitu jen pod školní licencí udělenou autorem
+ nebo se souhlasem příslušného orgánu školy.
+ Bod tak řeší obvyklé šíření zaměstnaneckých děl pro nekomerční účel, jehož
+ schválení by bylo administrativní zátěží, jakož i přispívání do svobodných
+ projektů.
+ Tím samozřejmě není nijak dotčena svoboda bádání, protože tu mluvíme o
+ šíření podoby zachycené v autorských dílech, nikoliv obsahu, který je zpravidla
+ volně šiřitelný a nepodléhá autorskému právu.
+\end_layout
+
+\begin_layout Enumerate
+Třetí bod obsahuje stěžejní vymezení školní licence, tj.
+ licence k užití způsobem, který škola bez dalšího dovoluje.
+ Obsah licence je zde vymezen třemi podmínkami, které se opírají o dobře
+ známé pojmy otevřeného přístupu (kapitola 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Otevreny-pristup"
+
+\end_inset
+
+) a dále o licenční prvky zachování licence (copyleft) a nekomerčního užití,
+ jak je známe z licencí typu Creative Commons a GNU GPL.
+ Ostatně příkladmý výčet obsahuje odkazovaná tabulka.
+ Oprávněná osoba, která si licenci vybírá, má tedy v zásadě na vybranou
+ licenci copyleftovou (která umožňuje bez problému přispívat do svobodných
+ projektů) a nekomerční (která je přiměřená, neboť nehrozí, že by byly nepřiměře
+ně dotčeny majetkové zájmy školy), případně jejich kombinaci.
+ Škola tudíž svoluje pouze k určitým privilegovaným užitím, kde nehrozí
+ dotčení jejích majetkových zájmů.
+ Škola bez dalšího nesvoluje ke komerčnímu nesvobodnému šíření zaměstnaneckého
+ díla, tedy učitel zásadně není oprávněn např.
+ podepsat nakladatelskou smlouvu spojenou s výhradní licencí ke komerčnímu
+ užití.
+ Koncepce školní licence tak řeší problém, že autoři neoprávněně postupují
+ zaměstnanecká díla v majetku školy na základě neplatných nakladatelských
+ smluv komerčním nakladatelstvím, která pak zakazují další šíření děl a
+ vydělávají na tom na úkor majetkových práv školy.
+ Tím je také vyřešen problém díla částečně zaměstnaneckého, neboť zaměstnanec
+ nemůže zaměstnanecké dílo jen tak vzít, zpracovat ho do nového díla a nové
+ dílo pak šířit komerčně.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Čtvrtý bod řeší otázku, kdy sama škola na svých internetových stránkách
+ zveřejní některý materiál a v důsledku nevědomosti nebo zapomnětlivosti
+ nahrávající osoby nebude dílo označeno potřebným způsobem a nebude uvedena
+ licence, za které je možné dílo šířit.
+ V takových případech (pokud není výslovně uvedeno jinak například v knize
+ samotné nebo na internetové stránce, kde si lze knihu stáhnout, jak je
+ tomu například na síti MEFANET) může se souhlas školy předpokládá.
+ Tento bod řeší problém, aby měli uživatelé právní jistotu ohledně užití
+ všech zaměstnaneckých děl, která škola zveřejňuje.
+ Pokud nejde o zveřejnění, které zajišťuje škola (tj.
+ například zpřístupnění zaměstnaneckého díla nahraného studentem na fakultní
+ síť), tento bod se pochopitelně neuplatní.
+ Zároveň také nevyžaduje byrokracii pro nastavení autorských práv u děl
+ zanedbatelné hodnoty a stanovuje základní režim, od něhož mají být odvozovány
+ odchylky.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Pátý bod pak připomíná, že zastupování při právním jednání upravuje vnitřní
+ předpis školy, který upravuje nakládání s nehmotnými statky ve vlastnictví
+ školy.
+ Příslušný orgán školy (tj.
+ například ředitel, děkan fakulty) tedy může udělit i jiný souhlas jménem
+ školy s užitím zaměstnaneckého díla bez ohledu na případnou jinou licenci
+ udělenou podle výše uvedených bodů.
+ 
+\end_layout
+
+\begin_layout Standard
+Podle mého názoru jde o řešení dobře naplňující poslání školy, kterým je
+ šíření vzdělanosti a ochrana poznaného.
+ Škola i autor budou oprávněni své zaměstnanecké dílo umístit na Internet,
+ což je nutné u univerzitních projektů jako jsou WikiSkripta, případně u zpřístu
+pnění děl na webové stránce nakladatelství nebo v internetové knihovně.
+ Také bude moci autor dát bez dalšího souhlas s vydáním svého díla tiskem
+ za podmínek školní licence bez zbytečné administrativy, aniž by tím jakkoliv
+ byla omezena přístupnost díla.
+ Soukromá nakladatelství tedy budou moci publikovat se souhlasem autora
+ zaměstnanecká díla, ale už se nebude stávat, že budou na zaměstnaneckých
+ dílech vydělávat na úkor školy (nebudou mít monopol).
+ K tomu by bylo potřeba se dohodnout se se školou, ostatně jako to platí
+ již nyní.
+ Školní licence totiž neumožňuje postoupit komerčnímu nakladatelství copyright,
+ resp.
+ práva na rozšiřování, a to ani 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz kapitolu 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Castecne-zamestnanecke"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+v případě zpracovaného díla.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Licenční omezení
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Vyjimky-z-licence"
+
+\end_inset
+
+Zatím jsem popisoval případ spíše typický pro skripta, monografie a jiná
+ zaměstnanecká díla pro vzdělávací účely.
+ V těchto případech není příliš podstatné, kde bude dílo vydáno (či spíše
+ vytištěno); podstatné je, aby vůbec bylo vydáno a k tomu je nejlepší svobodná
+ tržní soutěž.
+ 
+\end_layout
+
+\begin_layout Standard
+U vědeckých článků a vědeckých sborníků je však převážně zaběhnutý model,
+ že je často vydávají tradiční vydavatelství, která jen pomalu mění svůj
+ obchodní model založený na copyrightu.
+ Tradiční vydavatelství se odlišují od tiskáren mimo jiné tím, že zprostředkováv
+ají i 
+\emph on
+peer review
+\emph default
+ proces, který má zajišťovat kvalitu publikovaných článků.
+ Právě v oblasti výzkumu je garance kvality důležitou hodnotou.
+ Ale zajištění kvality je také finančně náročné, čímž tradiční vydavatelství
+ zdůvodňují své trvání na copyrightu k vědeckým článkům autorů.
+ 
+\end_layout
+
+\begin_layout Standard
+Alternativou jsou časopisy založené na principu otevřeného přístupu (Open
+ Access), které však z logiky věci nemohou být financovány z předplatného
+ (v České republice často veřejných) institucí.
+ V oborech jako je fyzika vysokých energií je pak standardem, že jsou články
+ autoarchivovány, aby mohly být co nejdříve zpřístupněny ostatním výzkumníkům
+ (
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.arxiv.org
+\end_layout
+
+\end_inset
+
+).
+ Politika otevřeného přístupu, v němž má daňový poplatník přístup ke všem
+ dílům, které jsou z jeho daní placeny, byla začleněna i do politiky řady
+ institucí.
+ Tradiční vydavatelé v USA však podporovali návrh zákona s názvem 
+\emph on
+Research Works Act
+\emph default
+, který měl publikaci s otevřeným přístupem zakázat.
+ Výsledkem byla kampaň výzkumníků 
+\emph on
+Cost of Knowledge
+\emph default
+, která apelovala na zlepšení podmínek přístupu k vědeckým článkům.
+ 
+\end_layout
+
+\begin_layout Standard
+Díky velkému tlaku výzkumných institucí se přístup tradičních vydavatelů
+ pozvolna mění a stále častěji umožňují autorům např.
+ vystavit svůj článek v repozitáři 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+o autoarchivaci 
+\begin_inset Newline newline
+\end_inset
+
+viz
+\begin_inset CommandInset ref
+LatexCommand vpageref
+reference "Autoarchivace"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+své instituce nebo na svých internetových stránkách.
+ Stanovují si však různé podmínky.
+ Pokud ve výchozí situaci vydavatel nepodporuje otevřený přístup, možná
+ s ním vyjednáte dodatek
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Zde se lze inspirovat například vzorem SPARC dodatku na 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://sparc.arl.org/resources/authors/addendum
+\end_layout
+
+\end_inset
+
+, ze kterého vychází i dokument v příloze.
+\end_layout
+
+\end_inset
+
+ ke smlouvě,
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz dále vzor
+\begin_inset Newline newline
+\end_inset
+
+dodatku 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Dodatek"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ protože autoarchivace článku nemá pro vydavatele žádný špatný dopad.
+ Takový přehled postačí pro účely návrhu přístupu k výjimkám v politice
+ zaměstnaneckých děl.
+\end_layout
+
+\begin_layout Standard
+Cílem navrhovaného postupu má být zajištění co nejširšího přístupu i v případě,
+ že vydavatel stanovil podmínky neslučitelné s okamžitým přístupem.
+ Příkladem takového omezení je publikační embargo
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+embargo
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "embargo"
+
+\end_inset
+
+neboli zákaz publikovat dílo ve stanovené době.
+ V důsledku publikačního embarga přijímá instituce závazek odkladu zpřístupnění.
+ Tento odklad dosahuje zpravidla až 25 měsíců.
+ Narozdíl od otevřeného přístupu proto mluvíme o odloženém přístupu.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "eps358882"
+
+\end_inset
+
+ Výchozí podmínky odkladu jsou společné pro všechny instituce a lze proto
+ vycházet například z již provedené rešerše Knihovny Akademie věd ČR,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Knihovna Akademie věd ČR.
+ 
+\emph on
+Metodika ukládání plných textů v institucionálním repozitáři ASEP
+\emph default
+.
+ Dostupný na webu 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.lib.cas.cz/asep/repozitar-asep/metodika-ukladani/
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ nebo z přehledu SHERPA/RoMEO.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.sherpa.ac.uk/romeo/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nové repozitáře jsou již schopny tuto licenční podmínku uskutečnit.
+ Lze ji proto umožnit s tou výhradou, že podmínky budou rozumně dlouhé i
+ vzhledem k použitelnosti výsledků.
+ Bylo by v rozporu s politikou otevřeného přístupu, aby byla zaměstnanecká
+ kniha vydána v komerčním nakladatelství po dobu, která by fakticky znamenala
+ převod copyrightu školy na soukromý subjekt – takový převod by měl vyžadovat
+ výslovný souhlas školy a nelze ho nahradit domněnkou souhlasu obsaženou
+ ve vnitřním předpise.
+ 
+\end_layout
+
+\begin_layout Standard
+Autor této stati však zastává názor, že není třeba všechny okolnosti upravit
+ předpisem, ale že je třeba nechat prostor i pro volnou soutěž mezi autory.
+ Ukazuje se totiž, že otevřený přístup poskytuje svým autorům konkurenční
+ výhodu.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "gargouri2010self"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Obecnou zásadou ve vztahu k výjimkám by mělo být, že by měly být aspoň stručně
+ odůvodněny (například odkazem na publikační politiku vydavatele) a škola
+ by pro všechny případy měla mít možnost otevřený přístup z důvodů zamýšlené
+ komercionalizace nebo jiných důvodů hodných zvláštního zřetele vyloučit.
+ Protože jde o stanovení odlišného licenčního režimu, lze tak snadno učinit
+ již při označování díla, a to uvedením 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz kapitolu 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Vyjimky-z-licence"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+obvyklé poznámky k licenční doložce:
+\end_layout
+
+\begin_layout Quote
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+copyright}
+\end_layout
+
+\end_inset
+
+ Univerzita Karlova v Praze, 2013.
+ Všechna práva vyhrazena nositeli práv.
+ Toto dílo jste oprávněni užít pouze na základě jeho zvláštního souhlasu
+ a v případech stanovených zákonem.
+\end_layout
+
+\begin_layout Subsection
+Zpřístupnění
+\end_layout
+
+\begin_layout Standard
+Jakmile je zaměstnanecké dílo bezpečně uchováno a je vyřešeno jeho licencování,
+ mělo by být pokud možno okamžitě zpřístupněno.
+ V poslední době se doporučuje,
+\begin_inset CommandInset citation
+LatexCommand cite
+key "eps358882"
+
+\end_inset
+
+ aby i v případě embarga bylo dílo okamžitě uchováno a systém ho automaticky
+ zpřístupnil po uplynutí doby stanovené podmínkami tradičního vydavatele.
+\end_layout
+
+\begin_layout Standard
+Autor nebo škola by měli mít při ukládání možnost nastavit způsoby zpřístupnění.
+ Režimy přístupu mohou být:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+žádný přístup
+\series default
+ (k datům mají přístup pouze administrátoři repozitáře a pověřené orgány
+ školy, 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+vnitřní potřeba školy
+\series default
+ (k datům mají přístup akademičtí pracovníci a studenti školy),
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+veřejný přístup
+\series default
+ (k datům má přístup kdokoli, kdo se připojí k internetovým stránkám).
+\end_layout
+
+\begin_layout Standard
+Každý z uvedených přístupů lze podmínit odkladem, případně stanovit dobu,
+ po kterou je určité skupině přístupný pouze na vyžádání.
+ 
+\end_layout
+
+\begin_layout Section
+Shrnutí
+\end_layout
+
+\begin_layout Standard
+Podle autorského zákona práva k zaměstnaneckým dílům vykonává škola jako
+ zaměstnavatel.
+ Jde o školy základní, střední, ale i vysoké.
+ Některé školy naprosto nevhodně přenechávají tato práva zaměstnancům, kteří
+ pak uzavírají smlouvy se soukromými vydavatelstvími.
+ Škola tím přichází o majetek a nepřispívá svému poslání.
+ Řešením je přijetí politiky otevřeného přístupu s rozumnými výjimkami,
+ které umožní přizpůsobení individuálním potřebám autorů působícím na škole
+ i komercionalizaci vybraných výsledků činnosti školy, pokud vede k efektivnější
+mu šíření výsledků.
+ 
+\end_layout
+
+\begin_layout Standard
+Otevřený přístup (Open Access) je myšlenkou bezplatného online přístupu
+ k výsledkům činnosti školy bez nutnosti registrace.
+ Otevřený přístup má víc než desetiletou tradici, rozvíjí se na prestižních
+ školách v západním světě, a to včetně soukromých škol jako Harvardská univerzit
+a.
+ Je společenskou odpovědností školy, aby přijala politiku otevřeného přístupu
+ a pravidla pro nakládání se zaměstnaneckými díly ve vlastnictví školy.
+ Jde také o trend u poskytovatelů dotací, otevřený přístup je např.
+ podmínkou účasti v programu EU Horizon 2020, kde ho vyžaduje vzorová grantová
+ smlouva.
+ Vzor politiky otevřeného přístupu a vnitřního předpisu pro zaměstnanecká
+ díla na škole podle českého práva je uveden v dodatcích k tomuto textu;
+ stačí si ho vhodně přizpůsobit a potřebným způsobem schválit.
+\end_layout
+
+\begin_layout Standard
+Základním předpokladem je, aby u každého díla bylo jasné, zda jde o dílo
+ zaměstnanecké či nikoliv, a tedy zda podléhá pravidlům pro zaměstnanecká
+ díla.
+ Za tímto účelem je třeba vést více či méně formální seznam zaměstnaneckých
+ děl, postačí např.
+ poznámka u díla v knihovním informačním systému.
+ Dodatečné náklady tedy nejsou velké.
+ Zaměstnanecké dílo by mělo být potřebným způsobem označeno názvem školy
+ už ve svém textu.
+ Pokud jde o díla částečně zaměstnanecká, měla by se na jejich zaměstnaneckou
+ složku uplatnit stejná pravidla jako na zaměstnanecká díla.
+ V případě díla spadajícího do rozsahu pracovněprávního zařazení zaměstnance
+ by měla by platit domněnka, že jde o dílo zaměstnanecké, a sporné případy
+ licencování by měly být řešeny dohodou.
+\end_layout
+
+\begin_layout Standard
+Politika otevřeného přístupu k zaměstnaneckým dílům má podstatný přínos
+ pro školu i autory.
+ Škola má neomezený přístup k dílům vytvořeným jejími autory, může je zpřístupňo
+vat veřejnosti, která její činnost financuje, a přesvědčit ji o užitečnosti
+ své činnosti, zvyšuje se citovanost jejích autorů a prestiž, škola má dodatečné
+ příjmy z kolektivní správy majetkových práv k zaměstnaneckým dílům a z
+ komerčního licencování zaměstnaneckých děl.
+ Autoři pak mají jasný právní rámec pro používání svých děl i děl svých
+ kolegů a jejich začleňování do projektů na principu Wiki, kde dosud existovala
+ právní rizika.
+ Autor a jiná osoba jsou ve vymezených případech vnitřním předpisem zmocněni
+ jednat ohledně zaměstnaneckých děl a mohou dílo používat bez dalších omezení
+ za podmínek tzv.
+ školní licence.
+ Školní licence je koncipována tak, aby umožnila otevřený přístup k dílu,
+ ale zároveň zabránila vytěžování díla monopolním komerčním subjektem.
+\end_layout
+
+\begin_layout Standard
+Je třeba respektovat uzavřené licenční smlouvy s tradičními vydavateli,
+ ale zároveň na ně vyvíjet tlak, aby mohla být díla vedle publikace v tradičním
+ vydavatelství paralelně přístupná v režimu otevřeného přístupu.
+ Za tímto účelem předkládám vzor dodatku k licenčnímu ujednání, o jehož
+ uzavření by se měla škola snažit, pokud tradiční vydavatel paralelní otevřený
+ přístup neumožňuje.
+ Jednání s tradičními vydavateli by měl vést odpovědný zástupce školy, který
+ by v nezbytných případech požádal o výjimku z otevřeného přístupu pro účely
+ publikace v tradičním nakladatelství.
+ 
+\end_layout
+
+\begin_layout Standard
+Pro rozšíření otevřeného přístupu je třeba zřídit funkční a jednoduše použitelný
+ univerzitní repozitář, vzdělávat zaměstnance prostřednictvím vedoucích
+ pracovišť, naučit je do repozitáře ukládat výsledky práce a zpřístupnit
+ jim přímo na pracovišti (na nástěnce) užitečné návody, jak přejít na model
+ otevřeného přístupu.
+ Aplikaci školního repozitáře lze pořídit jako svobodný software bez dodatečných
+ nákladů.
+ Za ukládání vydávaných děl do školního repozitáře doporučuji zavést pro
+ autory malou finanční odměnu v úvodních letech, stejně jako ustanovit pro
+ otevřeně přístupná díla pravidelně vyhlašovanou cenu vedení školy.
+\end_layout
+
+\begin_layout Standard
+V případě univerzit a jiných větších institucí je vhodné, aby se otevřenému
+ přístupu věnovalo zvláštní oddělení, kde by autoři nalezli podporu a pomoc.
+ Za těchto podmínek lze otevřený přístup jako standard na školách zavést
+ během cca 10 let a podstatně tak přispět k šíření vzdělanosti.
+ 
+\end_layout
+
+\begin_layout Section
+\start_of_appendix
+Vzorové právní dokumenty 
+\end_layout
+
+\begin_layout Subsection
+Politika otevřeného přístupu
+\end_layout
+
+\begin_layout Standard
+Na základě vzorové politiky otevřeného přístupu k vědeckým článkům na Harvardské
+ univerzitě
+\emph on
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Celý text Stuarta M.
+ Shiebera je dostupný na webu 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://osc.hul.harvard.edu/sites/default/files/model-policy-annotated_01_2013.pdf
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\emph default
+ jsem vypracoval vzorovou politiku otevřeného přístupu, kterou je možné
+ vztáhnout na všechny druhy školních, zaměstnaneckých i licencovaných děl
+ podle právního řádu České republiky.
+ Otevřený přístup je spojujícím prvkem, který je v případě každého druhu
+ děl třeba doplnit o zvláštní úpravu obsaženou v zákoně nebo podrobnějším
+ vnitřním předpise, například v tomto případě ve vnitřním předpise o zaměstnanec
+kých dílech.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Model-OA"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Škola 
+\begin_inset space \dotfill{}
+\end_inset
+
+(dále jen 
+\begin_inset Quotes gld
+\end_inset
+
+škola
+\begin_inset Quotes grd
+\end_inset
+
+) se zavazuje k šíření plodů výzkumu a vědění v nejširší možné podobě.
+ Abychom dostáli tomuto závazku, škola se rozhodla přijmout následující
+ politiku: 
+\end_layout
+
+\begin_layout Standard
+Škola v celé své činnosti sleduje cíl, aby bylo každé vědecké nebo výzkumné
+ dílo veřejně přístupné za podmínek otevřeného přístupu (Open Access).
+ Otevřeným přístupem se rozumí trvalý, bezplatný a celosvětový online přístup
+ k dokumentům, zejména úplným textům, pro všechny uživatele bez nutnosti
+ registrace.
+ Tato politika se vztahuje na každé vydané dílo, které vznikne přímo na
+ škole nebo na němž se člověk podílí v rámci svého působení na škole.
+ Výjimku tvoří jen díla, kde bylo před přijetím této politiky dohodnuto
+ neslučitelné ujednání nebo kde vedení školy výjimku udělilo podle žádosti
+ autora.
+ 
+\end_layout
+
+\begin_layout Standard
+Za tímto cílem škola například
+\end_layout
+
+\begin_layout Itemize
+využívá majetkových práv školy k zaměstnaneckým dílům, aby mohla být užívána
+ studenty školy, jinými zaměstnanci školy a veřejností,
+\end_layout
+
+\begin_layout Itemize
+uplatňuje zákonné oprávnění školy k nevýdělečnému zveřejnění závěrečných
+ prací studentů, pro které škola volí zveřejnění s otevřeným přístupem na
+ internetových stránkách,
+\end_layout
+
+\begin_layout Itemize
+vkládá podmínku otevřeného přístupu do všech grantů, projektů a jiných soutěží
+ školou vypisovaných a financovaných,
+\end_layout
+
+\begin_layout Itemize
+pravidelně sjednává s autory působícími na škole v licenčních smlouvách
+ za odpovídající odměnu možnost zpřístupnění díla podle politiky otevřeného
+ přístupu, 
+\end_layout
+
+\begin_layout Standard
+Vedení školy nebo jím pověřená osoba vyloučí použitelnost této politiky
+ pro určité dílo nebo odloží přístup o určitou dobu, pokud je o to požádán
+ autorem díla a zákon to umožňuje.
+ Každý autor bezplatně poskytne elektronickou kopii konečné autorské verze
+ svého díla nejpozději v den jeho vydání pověřené osobě ve vhodném formátu,
+ který škola stanoví (jako je PDF).
+ Škola smí dílo zveřejnit v repozitáři s otevřeným přístupem.
+ 
+\end_layout
+
+\begin_layout Standard
+Vedení školy odpovídá za výklad této politiky, řešení sporů týkajících se
+ jejího výkladu a použití, jakož i za doporučení jejích změn, pokud to bude
+ třeba.
+ Politiku po třech letech účinnosti vedení přezkoumá a zprávu o jejím působení
+ předloží zaměstnancům a studentům školy.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Politika otevřeného přístupu je zejména politickým dokumentem, která však
+ zakládá bezprostřední právní důsledky, například v podobě povinnosti osoby
+ poskytnout dílo škole v podobě pro zveřejnění, pokud nepožádá o výjimku.
+ Tato povinnost se vztahuje jak na zaměstnance, tak na studenty podílející
+ se na psaní článků vydávaných v časopisech apod.
+ Proto je vhodné přijmout politiku jako vnitřní předpis, který dopadne jak
+ na zaměstnance, tak na studenty.
+ Na veřejných vysokých školách a v jiných případech, kde je pro přijímání
+ vnitřních předpisů stanoven zvláštní postup, je třeba tento postup dodržet.
+ Politika otevřeného přístupu může být např.
+ přílohou edičního řádu, který je vnitřním předpisem veřejné vysoké školy
+ podle jejího statutu.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Následující text
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Celý text je překladem textu Stuarta M.
+ Shiebera dostupného na webu 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://osc.hul.harvard.edu/sites/default/files/model-policy-annotated_01_2013.pdf
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ je vzorovou politikou otevřeného přístupu ve stylu Harvardu -- licenci
+ zachovávající práva s možností vyloučení a podmínkou uložení díla.
+ Její jazyk se zakládá na politikách schvalovaných několika fakultami Harvardské
+ univerzity, stejně jako MIT, Fakulty vzdělávání Standorské univerzity,
+ Duke Univerzity a dalších.
+ (\SpecialChar \ldots{}
+)
+\end_layout
+
+\begin_layout Plain Layout
+
+\emph on
+Další informace vysvětlující motivaci a implementaci politiky otevřeného
+ přístupu na Harvardské univerzitě jsou dostupné na webové stránce Oddělení
+ pro vědeckou tvorbu Harvardu (
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://osc.hul.harvard.edu/
+\end_layout
+
+\end_inset
+
+).
+ Dotazy na tuto politiku a její vzorové znění lze pokládat na 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+osc@hulmail.harvard.edu
+\end_layout
+
+\end_inset
+
+.
+ (\SpecialChar \ldots{}
+) Tato verze je číslo 1.7 ze dne 17.
+ dubna 2010, 00:57:25 hodin.
+\end_layout
+
+\begin_layout Plain Layout
+Fakulta
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+V angličtině se slovo 
+\begin_inset Quotes gld
+\end_inset
+
+faculty
+\begin_inset Quotes grd
+\end_inset
+
+ většinou používá pro učitelský sbor, zde se držíme slova se stejným kořenem
+ fakulty, čímž se rozsah politiky poněkud rozšiřuje v podstatě na všechny
+ členy akademické obce.
+\end_layout
+
+\end_inset
+
+
+\emph on
+ <Název univerzity>
+\emph default
+ se zavazuje k šíření plodů výzkumu a vědění v nejširší možné podobě.
+ Abychom dostáli tomuto závazku, fakulta se rozhodla přijmout následující
+ politiku: Každý akademický pracovník uděluje 
+\emph on
+<Název univerzity>
+\emph default
+ souhlas ke zveřejnění jeho vědeckých článků a k výkonu autorských práv
+ k těmto článkům.
+ Přesněji řečeno, každý akademický pracovník uděluje 
+\emph on
+<Název univerzity> 
+\emph default
+nevýhradní, neodvolatelnou, celosvětovou licenci k tomu, aby vykonávala
+ libovolné majetkové autorské právo, které se váže k jeho vědeckým článkům,
+ a to v libovolné podobě, za podmínky, že články nebudou výdělečně prodávány,
+ a aby oprávnila k tomu samému kohokoliv dalšího.
+ Politika se týká všech vědeckých článků, u kterých je autorem nebo spoluautorem
+ osoba, která je v dané době akademickým pracovníkem fakulty, s výjimkou
+ článku dokončeného před přijetím této politiky a článku, u kterého člen
+ fakulty podepsal neslučitelné licenční nebo dispoziční ujednání před přijetím
+ této politiky.
+ Děkan nebo osoba jím určená vyloučí použitelnost uvedené licence pro určitý
+ článek nebo odloží přístup o určitou dobu, pokud je o to požádán členem
+ fakulty.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+Každý akademický pracovník bezplatně poskytne elektronickou kopii konečné
+ autorské verze svého článku nejpozději v den jeho vydání pověřené osobě
+ na děkanátu ve vhodném formátu (jako je PDF), který děkanát stanoví.
+\end_layout
+
+\begin_layout Plain Layout
+Děkanát smí článek zveřejnit v repozitáři s otevřeným přístupem.
+ Děkanát odpovídá za výklad této politiky, řešení sporů týkajících se jejího
+ výkladu a použití, jakož i za doporučení jejích změn fakultě, pokud to
+ bude třeba.
+ Politika bude po třech letech přezkoumána a zpráva bude předložena fakultě.
+\end_layout
+
+\end_inset
+
+Škola by měla přijmout k této politice odpovídající prováděcí předpisy pro
+ zaměstnanecká díla a zejména přijmout přechodná ustanovení, která rozloží
+ přechod na politiku otevřeného přístupu.
+ Dnes již lze snadno očekávat přechod u závěrečných prací na vysokých školách,
+ kde již je tato politika dnes realizována, následně je vhodné vtělit podmínky
+ do nově vypisovaných grantů a projektů, teprve následně lze doporučit doplnění
+ ujednání do vzorových licenčních smluv a po zřízení evidence zaměstnaneckých
+ děl též u těchto děl.
+\end_layout
+
+\begin_layout Subsection
+Vnitřní předpis o zaměstnaneckých dílech
+\end_layout
+
+\begin_layout Standard
+Vnitřní předpis o zaměstnaneckých dílech jde dál než politika otevřeného
+ přístupu.
+ Je tomu tak proto, že zaměstnavatel je z majetkového hlediska plným vlastníkem
+ díla a měl by si tak ve vlastním zájmu zjednat přístup ke zdrojové podobě
+ a datům, jinak nebude svá práva moci vykonávat ve své celosti.
+ 
+\end_layout
+
+\begin_layout Standard
+Lze najít řadu praktických případů, kdy se bude hodit mít zdrojovou podobu
+ díla: Na školu nastoupí nový učitel a bude chtít upravit dosud používaná
+ skripta a písemné práce, škola bude nezávisle zjišťovat, zda nedošlo k
+ eticky problematické manipulaci dat, škola bude dílo zpracovávat k vydání
+ nebo ho bude průběžně aktualizovat podle nových poznatků, nový výzkumný
+ tým se bude chtít seznámit s daty použitými v předchozí práci apod.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Vnitrni-predpis"
+
+\end_inset
+
+Tímto vnitřním předpisem upravuje zaměstnavatel 
+\begin_inset space \dotfill{}
+\end_inset
+
+ (dále jen „škola“) nakládání se zaměstnaneckými díly.
+\end_layout
+
+\begin_layout Paragraph
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\series bold
+1 Předmět úpravy
+\end_layout
+
+\begin_layout Standard
+Tento vnitřní předpis provádí politiku otevřeného přístupu školy ve vztahu
+ k zaměstnaneckým dílům, která splňují všechny následující podmínky:
+\end_layout
+
+\begin_layout Enumerate
+škola podle zákona
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+58 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 zákona č.
+ 121/2000 Sb., autorský zákon, ve znění pozdějších předpisů.
+\end_layout
+
+\end_inset
+
+ vykonává majetková práva k zaměstnaneckému dílu,
+\end_layout
+
+\begin_layout Enumerate
+zaměstnanecké dílo je určeno ke zveřejnění v rámci výzkumu, vědy, vzdělávání,
+ pořizování dokumentace, informování veřejnosti nebo k jiném úkolu školy,
+\end_layout
+
+\begin_layout Enumerate
+zaměstnanecké dílo je zachyceno na nosiči v elektronické podobě,
+\end_layout
+
+\begin_layout Enumerate
+ke zveřejnění zaměstnaneckého díla došlo nebo má dojít po účinnosti tohoto
+ předpisu.
+ 
+\end_layout
+
+\begin_layout Paragraph
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\series bold
+2 Zaměstnanecké dílo
+\end_layout
+
+\begin_layout Standard
+(1) Za podmínek stanovených zákonem je zaměstnaneckým dílem pracovní list,
+ učební text, cvičebnice s úlohami, kniha, část knihy, vědecký nebo odborný
+ článek, posudek ke kvalifikační práci, fotografická dokumentace školních
+ akcí, přednáška, prezentace, zpráva, tvůrčí příspěvek do elektronického
+ systému a počítačový program.
+ 
+\end_layout
+
+\begin_layout Standard
+(2) Ustanovení o zaměstnaneckých dílech se použijí obdobně na umělecký výkon
+ výkonného umělce, zvukový nebo zvukově obrazový záznam a databázi.
+ Přitom má nositel práva postavení zaměstnavatele podle tohoto předpisu
+ a osoba, která předmět ochrany pořídila, má postavení autora zaměstnaneckého
+ díla podle tohoto předpisu.
+ 
+\end_layout
+
+\begin_layout Paragraph
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+3 Vydávané zaměstnanecké dílo
+\end_layout
+
+\begin_layout Standard
+Vydávaným zaměstnaneckým dílem se rozumí zaměstnanecké dílo takového rozsahu
+ a typu, který je obvykle vydáván v časopise, knize nebo v jiné publikaci,
+ kterou lze dohledat ve veřejné knihovně, případně je opatřeno jednoznačným
+ identifikátorem digitálního obsahu.
+ 
+\end_layout
+
+\begin_layout Paragraph
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+4 Práva zaměstnance
+\end_layout
+
+\begin_layout Standard
+Zaměstnanec má pro účely tvorby zaměstnaneckých děl právo využít vyhrazenou
+ část pracovní doby, využívat k tomu prostředky školy, vybrat a udělit k
+ dílu školní licenci, ucházet se o finanční podporu z prostředků školy na
+ to určených, jakož i studovat a užívat ostatní zaměstnanecká díla.
+\end_layout
+
+\begin_layout Paragraph
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+5 Povinnosti zaměstnance
+\end_layout
+
+\begin_layout Standard
+Zaměstnanec je povinen ve svém zaměstnaneckém díle řádně citovat ostatní
+ autory, vyloučit z díla části, které je zakázáno podle zákona zveřejnit,
+ zajistit jeho řádné označení (§
+\begin_inset space \thinspace{}
+\end_inset
+
+6) a trvalé uchování (§
+\begin_inset space \thinspace{}
+\end_inset
+
+8), v případě vydávaného zaměstnaneckého díla též zajistit jeho zápis (§
+ 7) a otevřené zpřístupnění (§
+\begin_inset space \thinspace{}
+\end_inset
+
+11).
+ 
+\end_layout
+
+\begin_layout Paragraph
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+6 Označení zaměstnaneckého díla
+\end_layout
+
+\begin_layout Standard
+(1) Označením se rozumí uvedení názvu školy nebo jiného údaje, prostřednictvím
+ něhož bude zřejmé, že jde o zaměstnanecké dílo, a to přímo v díle nebo
+ v doprovodné informaci v systému, který dílo zpřístupňuje.
+ Je-li autorské dílo vedle jména autora nebo autorského kolektivu označeno
+ rovněž názvem školy a není-li prokázán opak, považuje se dílo za zaměstnanecké.
+\end_layout
+
+\begin_layout Standard
+(2) Z doprovodných informací může označení obsahovat webovou adresu, na
+ které je zveřejňována aktuální verze díla nebo kde je zaměstnanecké dílo
+ dostupné, uvedení jednoznačného identifikátoru díla, pokud byl zaměstnaneckému
+ dílu přidělen, uvedení podmínek zpřístupnění díla v souladu s tímto předpisem.
+\end_layout
+
+\begin_layout Paragraph
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+7 Zápis zaměstnaneckého díla
+\end_layout
+
+\begin_layout Standard
+(1) Údaj o tom, že je vydávané dílo zaměstnanecké, se zapisuje do seznamu
+ zaměstnaneckých děl.
+ 
+\end_layout
+
+\begin_layout Standard
+(2) Seznam zaměstnaneckých děl je každý informační systém, který pro to
+ škola uzná vhodným.
+ Rozsah evidovaných údajů stanoví správce tohoto informačního systému a
+ zapisované údaje se automaticky načítají ze systému, kde je dílo trvale
+ uchováno.
+ 
+\end_layout
+
+\begin_layout Standard
+(3) Zaměstnanecké dílo se zapisuje nejpozději při zveřejnění.
+ Nedokončené zaměstnanecké dílo se zapisuje též nejpozději v den, kdy zaměstnane
+c ukončí pracovněprávní vztah u zaměstnavatele.
+\end_layout
+
+\begin_layout Paragraph
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+8 Trvalé uchování
+\end_layout
+
+\begin_layout Standard
+Vydávané zaměstnanecké dílo musí být uloženo v institucionálním nebo oborovém
+ repozitáři nebo jiném informační systému, který zajišťuje jeho trvalé uchování,
+ bezprostřední přístup školy a následné zpřístupnění veřejnosti.
+ Dílo musí být uchováno ve formátu, ve které bylo vytvořeno a v přenositelném
+ výstupním formátu.
+ Ostatní díla musí být trvale uchována vhodným způsobem.
+ Doporučené způsoby trvalého uchování zaměstnaneckých děl zveřejní na každém
+ pracovišti školy vedoucí zaměstnanec.
+ 
+\end_layout
+
+\begin_layout Paragraph
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+9 Školní licence
+\end_layout
+
+\begin_layout Standard
+Školní licencí se podle tohoto předpisu rozumí nevýhradní licence, která
+ 
+\end_layout
+
+\begin_layout Enumerate
+vyžaduje uvedení jména autora a školy způsobem přiměřeným užití,
+\end_layout
+
+\begin_layout Enumerate
+umožňuje oprávněné osobě otevřený přístup podle politiky otevřeného přístupu,
+\end_layout
+
+\begin_layout Enumerate
+obsahuje podmínku zachování licence nebo nekomerčního užití.
+\end_layout
+
+\begin_layout Standard
+Doporučené školní licence jsou uvedeny v tabulce 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Doporucene-skolni-licence"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Paragraph
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+10 Udělování licence
+\end_layout
+
+\begin_layout Enumerate
+Pokud jde o projekty, jejichž licenční podmínky škola schválila, je autor
+ zmocněn umístit své zaměstnanecké dílo do repozitáře projektu a udělit
+ jménem školy potřebný licenční souhlas v souladu s těmito podmínkami.
+\end_layout
+
+\begin_layout Enumerate
+Za podmínek školní licence, kterou si oprávněná osoba vybere, škola opravňuje
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+autora k užití jeho zaměstnaneckého díla,
+\end_layout
+
+\begin_layout Enumerate
+autora k udělení licence jménem školy k užití jeho zaměstnaneckého díla
+ třetí stranou,
+\end_layout
+
+\begin_layout Enumerate
+člena akademické obce školy k užití zaměstnaneckého díla při vnitřní potřebě
+ školy včetně možnosti dálkového přístupu,
+\end_layout
+
+\begin_layout Enumerate
+jinou osobu k užití zaměstnaneckého díla na půdě školy.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Není-li u zaměstnaneckého díla, které škola z vlastní iniciativy se souhlasem
+ k tomu příslušných orgánů zpřístupní, uvedena jiná licence nebo výhrada
+ autorského práva, platí, že škola svolila k užití za podmínek školní licence
+ vybrané uživatelem.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Zastupování školy při udělování licence v ostatních případech upravuje jiný
+ vnitřní předpis.
+ 
+\end_layout
+
+\begin_layout Paragraph
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\series bold
+11 Otevřený přístup
+\end_layout
+
+\begin_layout Standard
+Vydávaná zaměstnanecká díla zveřejňuje škola v režimu otevřeného přístupu
+ podle politiky otevřeného přístupu, není-li stanoveno jinak.
+ V případě komercionalizace, nepřekročitelných podmínek třetích stran a
+ jiných odůvodněných případech povolí škola u určitého druhu děl nebo jednotlivě
+ podle žádosti zaměstnance odklad zpřístupnění na nezbytně nutnou dobu,
+ nejdéle však 5 let.
+\end_layout
+
+\begin_layout Paragraph
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+12 Díla částečně zaměstnanecká
+\end_layout
+
+\begin_layout Standard
+Na zpracování zaměstnaneckého díla a na část díla, která je sama o sobě
+ zaměstnaneckým dílem, se použijí ustanovení tohoto předpisu o zaměstnaneckém
+ díle obdobně.
+\end_layout
+
+\begin_layout Paragraph
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+13 Přechodné ustanovení
+\end_layout
+
+\begin_layout Standard
+Na zaměstnanecká díla zveřejněná před účinností tohoto předpisu se vztahuje
+ jen povinnost jejich zápisu, který musí autor provést do dvou let od účinnosti
+ tohoto předpisu.
+\end_layout
+
+\begin_layout Paragraph
+§
+\begin_inset space \thinspace{}
+\end_inset
+
+14 Účinnost
+\end_layout
+
+\begin_layout Standard
+Tento vnitřní předpis nabývá účinnosti registrací Ministerstvem školství,
+ mládeže a tělovýchovy.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Vztahuje se jen na veřejnou vysokou školu.
+ Podle § 36 odst.
+ 1 zákona č.
+ 111/1998 Sb., o vysokých školách, ve znění pozdějších předpisů, podléhají
+ vnitřní předpisy veřejné vysoké školy registraci.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Kdo je na škole oprávněn řídit práci zaměstnanců stanoví zákon.
+ Práce zaměstnanců je upravena obecně, a jedná se tedy o normativní řídící
+ akt,
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz kapitolu
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Pracko"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ který má formu vnitřního předpisu, směrnice nebo opatření.
+ Forma opatření vychází ze statutárního předpisu té které školy nebo zvyklostí.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Školy upravené školským zákonem
+\series default
+.
+ Podle § 165 odst.
+ 1 písm.
+ a) zákona č.
+ 561/2004 Sb., školského zákona, ve znění pozdějších předpisů, v případě
+ školy a školského zařízení, které zřizuje stát, kraj, obec nebo svazek
+ obcí, stanovuje organizaci a podmínky provozu školy a školského zařízení
+ ředitel.
+ Ředitel proto výše uvedený předpis o zaměstnaneckých dílech typicky vydá
+ jako svou směrnici.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Školy upravené vysokoškolským zákonem
+\series default
+.
+ Podle § 10 odst.
+ 1, resp.
+ § 28 odst.
+ 1 zákona č.
+ 111/1998 Sb., o vysokých školách, rozhoduje o blíže neupravených otázkách
+ rektor, resp.
+ v případě fakulty děkan.
+ Předpis o zaměstnaneckých dílech patrně nebude vhodné vydat jako vnitřní
+ předpis, neboť vydání vnitřního předpisu musí předpokládat statut veřejné
+ vysoké školy a jde o spíše specifickou záležitost, kterou lze lépe upravit
+ opatřením rektora nebo děkana.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Dodatek k licenční smlouvě
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Dodatek"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+Čl.
+ 1 Smluvní strany
+\end_layout
+
+\begin_layout Enumerate
+Autor: 
+\begin_inset space \dotfill{}
+\end_inset
+
+, narozen 
+\begin_inset space \dotfill{}
+\end_inset
+
+, 
+\begin_inset Newline newline
+\end_inset
+
+trvale bytem 
+\begin_inset space \dotfill{}
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Vydavatel: 
+\begin_inset space \dotfill{}
+\end_inset
+
+, IČ
+\begin_inset space \dotfill{}
+\end_inset
+
+, 
+\begin_inset Newline newline
+\end_inset
+
+se sídlem 
+\begin_inset space \dotfill{}
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Paragraph
+Čl.
+ 2 Smlouva
+\end_layout
+
+\begin_layout Enumerate
+Tento dodatek mění a doplňuje smlouvu uzavřenou mezi smluvními stranami
+ dne 
+\begin_inset space \dotfill{}
+\end_inset
+
+, která se týkala užití díla 
+\begin_inset space \dotfill{}
+\end_inset
+
+ vydávaného vydavatelem (dále jen 
+\begin_inset Quotes gld
+\end_inset
+
+dílo
+\begin_inset Quotes grd
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Enumerate
+Smluvní strany vylučují ujednání původní smlouvy, která odporují obsahu
+ nebo účelu ujednání v tomto dodatku.
+\end_layout
+
+\begin_layout Paragraph
+Čl.
+ 3 Oprávnění autora užít dílo
+\end_layout
+
+\begin_layout Enumerate
+Původní smlouva nijak nebrání tomu, autor sám nekomerčně užil dílo, a to
+ i prostřednictvím své instituce, a udělil jinému nevýhradní licenci k nekomerčn
+ímu užití díla podle politiky otevřeného přístupu své instituce nebo jiných
+ podobných podmínek.
+ Při užití podle tohoto ujednání se uvádí jméno vydavatele a zdroje.
+ 
+\end_layout
+
+\begin_layout Enumerate
+V důsledku tohoto ujednání je zachováno např.
+ oprávnění šířit dílo při výuce nebo umístit dílo na své internetové stránky
+ nebo do otevřeného digitálního repozitáře instituce nebo oboru.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Čl.
+ 4 Autorský výtisk
+\end_layout
+
+\begin_layout Enumerate
+Vydavatel se zavazuje do 14 dnů po vydání díla zaslat bezplatně autorský
+ výtisk díla v elektronické podobě, ve které bylo vydáno a ve formátu jako
+ je např.
+ Portable Document Format (.pdf), který zachovává končené rozložení stránky,
+ formátování a obsah.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Pokud je vklad vydavatele do autorského výtisku tvůrčím zpracováním díla
+ (např.
+ grafika, anotace apod.), vydavatel uděluje bezplatný licenční souhlas s
+ jeho užitím k účelům uvedeným v čl.
+ 3 odst.
+\begin_inset space \thinspace{}
+\end_inset
+
+1 tohoto dodatku.
+\end_layout
+
+\begin_layout Enumerate
+Elektronická podoba autorského výtisku díla žádným způsobem neomezí uživatele
+ pomocí technických nebo jiných opatření, aby soubor kopíroval, tiskl nebo
+ získával jeho textovou část.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Čl.
+ 5 Závěrečná ujednání
+\end_layout
+
+\begin_layout Enumerate
+Pokud autor není nositelem všech práv k dílu (např.
+ podle ustanovení zákona o zaměstnaneckých dílech, spoluautorech nebo o
+ podpoře vědecké a výzkumné činnosti z veřejných prostředků), je tento dodatek
+ ujednán i ve prospěch nositelů práv k dílu.
+\end_layout
+
+\begin_layout Enumerate
+Autor žádá vydavatele, aby po podpisu dvou stejnopisů tohoto dodatku vrátil
+ jeden stejnopis autorovi.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Pokud autor dodatek vydavateli zaslal společně se smlouvou nebo před jejím
+ podpisem, tvoří součást nabídky na uzavření smlouvy.
+ Smlouva včetně tohoto dodatku je uzavřena, pokud vydavatel dílo vydá.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "30text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align left
+Za autora:
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+V
+\begin_inset space \dotfill{}
+\end_inset
+
+ dne 
+\begin_inset space \dotfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+Podpis:
+\begin_inset space \dotfill{}
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "30text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align left
+Za vydavatele:
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "70text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+V
+\begin_inset space \dotfill{}
+\end_inset
+
+ dne 
+\begin_inset space \dotfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+Podpis:
+\begin_inset space \dotfill{}
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Vzorové návody
+\end_layout
+
+\begin_layout Subsection
+Pokyny pro zaměstnance
+\end_layout
+
+\begin_layout Subsubsection*
+Co je to zaměstnanecké dílo?
+\end_layout
+
+\begin_layout Standard
+Zaměstnanecké dílo je autorské dílo, které vytvořil autor ke splnění svých
+ povinností vyplývajících z pracovně právního vztahu.
+ Mezi pracovní povinnosti akademického pracovníka patří i publikace vědeckých
+ článků a dalších výstupů.
+ Pokud jsou tato díla vytvářena v rámci pracovněprávního vztahu, jsou zaměstnane
+ckými díly a s majetkovými právy nakládá zaměstnavatel.
+ Autorovi však náleží osobnostní práva podle zákona.
+\end_layout
+
+\begin_layout Subsubsection*
+Kde je upraveno nakládání se zaměstnaneckými díly?
+\end_layout
+
+\begin_layout Standard
+Nakládání se zaměstnaneckými díly stejně jako s jiným majetkem upravuje
+ vnitřní předpis, který je dostupný na internetové stránce 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.vaseskola.cz
+\end_layout
+
+\end_inset
+
+.
+ Na této stránce je také zveřejněna metodika pro označení, uchovávání, licencová
+ní a zpřístupňování zaměstnaneckých děl.
+ Smyslem těchto pravidel je umožnit co nejširší šíření výsledků vědy a výzkumu
+ na škole, zvýšit jejich publikační dopad a upevnit prestižní postavení
+ instituce.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Jaká zaměstnanecká díla zapisovat?
+\end_layout
+
+\begin_layout Standard
+Ačkoliv zaměstnaneckým dílem je i třeba posudek k závěrečné práci, není
+ třeba takové zaměstnanecké dílo kamkoliv zapisovat.
+ Zapisována jsou pouze vydávaná zaměstnanecká díla.
+ Vydávaným dílem se rozumí dílo takového rozsahu a typu, který je obvykle
+ vydáván v časopise, knize nebo v jiné publikaci, kterou lze dohledat ve
+ veřejné knihovně, případně je opatřeno jednoznačným identifikátorem digitálního
+ obsahu.
+ Před zapsáním prosím dílo označte nejlépe přímo v textu, aby bylo patrné,
+ že jde o zaměstnanecké dílo, tj.
+ uveďte v něm obvyklým způsobem název školy, fakulty a pracoviště.
+\end_layout
+
+\begin_layout Subsubsection*
+Kde díla trvale uchovávat?
+\end_layout
+
+\begin_layout Standard
+Díla lze uchovávat v oborovém nebo institucionálním repozitáři, případně
+ v jiném systému, kde budou bezpečně a trvale uchována (například různé
+ školní projekty mohou mít své vlastní repozitáře).
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Mohu zaměstnanecké dílo dále šířit?
+\end_layout
+
+\begin_layout Standard
+Samozřejmě! Dílo můžete šířit na svých internetových stránkách, můžete ho
+ nechat vytisknout ve školní tiskárně a prodávat studentům za cenu tisku,
+ umístit ho na školní server ke studiu apod.
+ Dílo lze šířit za podmínek školní licence, ze které ale rovněž vyplývají
+ určitá omezení.
+ Školní licencí se zjednodušeně řečeno rozumí licence umožňující otevřený
+ přístup (Open Access).
+ K případným komerčním ujednáním je třeba souhlas pověřeného zástupce fakulty.
+ Doporučené školní licence jsou uvedeny v tab.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Doporucene-skolni-licence"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+Jaké jsou výhody politiky otevřeného přístupu u zaměstnaneckých děl?
+\end_layout
+
+\begin_layout Itemize
+Autor sám i ostatní autoři mají snazší přístup k publikovaným dílům, načtou
+ si je přímo v knihovním katalogu, mohou je při řádném citování využívat,
+ remixovat a zvyšuje se citovanost děl.
+\end_layout
+
+\begin_layout Itemize
+Autor sám je oprávněn udělit licenci v rozsahu stanoveném školou a nemusí
+ se bát právních komplikací.
+\end_layout
+
+\begin_layout Itemize
+Díky repozitáři může autor svoje dílo jednoduše aktualizovat a aktualizovanou
+ verzi zpřístupňovat.
+ Repozitář také zajišťuje ochranu osobnostních autorských práv autora, protože
+ je v něm zaznamenán den publikace a lze snáze identifikovat plagiáty.
+\end_layout
+
+\begin_layout Itemize
+Univerzita může sledovat výkon autorů, bezpečně a trvale uchovávat jejich
+ díla, a tento obsah je snadno dostupný i veřejnosti, která činnost školy
+ financuje.
+\end_layout
+
+\begin_layout Itemize
+Dílo publikované v režimu otevřeného přístupu může být financováno ze zvláštních
+ zdrojů školy a účastnit se soutěží o nejlepší otevřeně přístupné dílo.
+\end_layout
+
+\begin_layout Standard
+Vedoucí příslušného pracoviště zajistí, aby byl tento informační oběžník
+ dostupný na všech pracovištích.
+\end_layout
+
+\begin_layout Subsection
+Publikační model pro vědecký článek v tradičních vydavatelstvích
+\end_layout
+
+\begin_layout Standard
+Tento publikační model pomáhá autorům vědeckých článků v oblasti fyziky
+ při zpřístupnění jejich vědeckých výsledků světu, pokud má být článek vydán
+ v tradičním vydavatelství.
+ S účinností od 
+\begin_inset space \dotfill{}
+\end_inset
+
+ byl vydán předpis, který upravuje zaměstnanecká díla.
+\end_layout
+
+\begin_layout Enumerate
+Pokud pracujete na svém vědeckém článku, máte pochopitelně právo právo využít
+ vyhrazenou část pracovní doby, využívat prostředky školy, ucházet se o
+ finanční podporu z prostředků školy, jakož i studovat a užívat ostatní
+ zaměstnanecká díla zapsaná v informačních systémech školy i jinde.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Jakmile článek dokončíte, rozhodněte se, v kterém tradičním vydavatelství
+ ho vydáte.
+ Zjistěte, jakou smlouvu s vydavatelem budete muset podepsat a v jaké míře
+ mu budete muset dát výhradní souhlas, zda umožňuje zveřejnění v otevřeném
+ repozitáři (autoarchivaci), případně se zavázat k odkladu zveřejnění (embargu).
+ Seznam aktuálních politik některých vydavatelů naleznete na 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.sherpa.ac.uk/romeo/
+\end_layout
+
+\end_inset
+
+.
+ S vydavatelem lze dojednat i 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+viz dodatek
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Dodatek"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+dodatek ke smlouvě.
+ Pokud vydavatel nevydává v režimu Open Access, musí smlouvy podepisovat
+ pověřený zástupce školy.
+\end_layout
+
+\begin_layout Enumerate
+Nyní se zamyslete nad podmínkami, za nichž má být článek jednou dlouhodobě
+ zpřístupněn na internetových stránkách.
+ Jako autora vás škola opravňuje zvolit některou školní licenci.
+ Doporučené školní licence jsou uvedeny v tab.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Doporucene-skolni-licence"
+
+\end_inset
+
+.
+ Pokud se škole nepodařilo vyjednat s vydavatelem možnost publikace v režimu
+ otevřeném přístupu, budete moci dílo publikovat, až budou splněny podmínky
+ uzavřené smlouvy podle politiky vydavatele.
+ 
+\end_layout
+
+\begin_layout Enumerate
+V článku samotném nezapomeňte uvést školu, kde pracujete.
+ Škola je podle zákona nositelem majetkových práv k dílu, osobnostní autorská
+ práva zůstávají autorovi.
+ Podle vybrané licence s vydavatelem můžete přímo do článku uvést, kdy bude
+ článek volně dostupný a za jakých podmínek.
+ Zvolit můžete například následující způsob:
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+copyright}
+\end_layout
+
+\end_inset
+
+ Univerzita Karlova v Praze, 2013
+\begin_inset Newline newline
+\end_inset
+
+Článek bude volně přístupný za podmínek licence CC-BY-SA 4.0 od 1.
+ 1.
+ 2015.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Zašlete článek vydavateli k recenznímu řízení.
+\end_layout
+
+\begin_layout Enumerate
+Nejpozději v den zveřejnění nahrajte článek do institucionálního nebo oborového
+ repozitáře.
+ Institucionální repozitář naleznete na webu 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://repozitar.cuni.cz
+\end_layout
+
+\end_inset
+
+, z oborových repozitářů je nejrozšířenější repozitář 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://arxiv.org/
+\end_layout
+
+\end_inset
+
+.
+ V repozitáři můžete nastavit jak použitou licenci, tak např.
+ odklad zveřejnění, pokud ho tradiční vydavatel vyžaduje (to je zejména
+ důležité, pokud jste tyto údaje neuvedli přímo v díle samotném).
+ Společně s článkem nahrajte i všechny podkladové materiály (zdrojové soubory,
+ použitá anonymní data), které jste použili, a nastavte, zda je chcete rovněž
+ zpřístupnit pro ostatní výzkumníky a veřejnost.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Do repozitáře můžete kdykoliv později nahrát aktualizovanou verzi článku
+ (např.
+ po recenzním řízení a po vydání).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "literature/bibliography"
+options "jurabib"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

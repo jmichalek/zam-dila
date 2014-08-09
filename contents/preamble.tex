@@ -1,0 +1,174 @@
+%% fonty
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX]{Stempel Garamond}
+\defaultfontfeatures{Mapping=tex-text}
+\usepackage{textcase}
+\usepackage{booktabs}
+\sloppy
+\renewcommand{\textsc}[1]{\MakeTextUppercase{#1}} % příjmení autorů velkými písmeny
+
+%% typografická zlepšení
+%\usepackage{csquotes}
+
+% barvy
+\usepackage{xcolor}
+\definecolor{mygreen}{cmyk}{0.36,0.0,0.47,0.40}
+
+\usepackage[
+   bookmarks=true,
+   unicode=true,
+   pdftitle={Zaměstnanecká díla na školách},
+   pdfauthor={Jakub Michálek},
+   pdfkeywords={otevřený přístup} {zaměstnanecké dílo} {vzdělávání},
+   colorlinks=false,
+   linkbordercolor=mygreen,% 
+   citebordercolor=mygreen,%   
+   urlbordercolor=mygreen%
+   ]{hyperref}
+
+\let\oldurl\url
+\renewcommand{\url}[1]{<\oldurl{#1}>}
+
+% nadpisy
+\usepackage{titlesec}
+\titleformat{\section}
+{\Large\bfseries}
+{\thesection}{.5em}{}[\titleline{\color{mygreen}\titlerule[3pt]}] 
+
+\titleformat{\subsection}
+{\large\bfseries}
+{\thesubsection}{.5em}{}[\titleline{\color{mygreen}\titlerule[1pt]}] 
+
+\titleformat{\paragraph}[display]
+{\normalfont\bfseries}{Čl.~\arabic{paragraph}}{1em}{}
+
+\let\oldmarginpar\marginpar%
+\renewcommand{\marginpar}[1]{%
+  \oldmarginpar[\raggedleft #1]{\raggedright #1}%
+}
+
+%% floats get barriers
+\usepackage[section]{placeins}
+
+%% poznámky pod čarou
+\usepackage{footnote} % možnost používat poznámky pod čarou v tabulkách
+\makesavenoteenv{tabular} % automaticky se budou ukládat poznámky pod čarou v prostředí tabular
+\makesavenoteenv{table} % automaticky se budou ukládat poznámky pod čarou v prostředí table
+% zůstává problém, že při kliknutí na odkaz na poznámku pod čarou vytvořený pomocí hyperref nefunguje
+
+% hlavičky
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+%\renewcommand{\chaptermark}[1]{\rightmark{\thechapter\ #1}}
+%\renewcommand{\sectionmark}[1]{\rightmark{\thesection\ #1}}
+
+% Nastaví styl záhlaví pro sudé i liché stránky
+\fancyhf{} % smaže aktuální nastavení záhlaví a zápatí
+\fancyfoot[LE]{\bfseries\thepage} 
+\fancyfoot[RO]{\bfseries\thepage} 
+\fancyhead[LO]{\itshape\rightmark}
+\fancyhead[RE]{\itshape\leftmark}
+
+\renewcommand{\headrulewidth}{0pt} % tloušťka linky
+\renewcommand{\footrulewidth}{0pt}   % patička chybí
+\addtolength{\headheight}{1.2pt} % prostor pro záhlaví
+
+\fancypagestyle{plain}{
+  \fancyhead{} % na prázdných stránkách nechci záhlaví
+  \renewcommand{\headrulewidth}{0pt} % ani linku
+}
+
+
+%% citování
+\usepackage[backend=biber,
+style=footnote-dw,%authortitle-dw
+namefont=smallcaps,
+isbn=true,
+language=english,
+autocite=footnote,
+backref=true,
+hyperref,
+nopublisher=false]{biblatex} 
+\urlstyle{rm}
+
+\DeclareFieldFormat{title}{\mkbibemph{#1}} % titul kurzívou
+\let\cite\autocite
+
+\defbibheading{bibliography}{\section*{Seznam použité literatury}} % přejmenování sekce
+
+%% závěrečné úkony
+\AtEndDocument{
+\addcontentsline{toc}{section}{Seznam použité literatury}
+\printbibliography} % tisk bibliografie na konci souboru
+
+\let\finalandcomma=\!
+\renewcommand*{\multinamedelim}{\addcomma\space}
+\renewcommand*{\finalnamedelim}{%
+\ifnum\value{liststop}>2 \finalandcomma\fi%
+\addsemicolon\space}
+\renewcommand*{\bibmultinamedelim}{\addcomma\space}
+\renewcommand*{\bibfinalnamedelim}{%
+\ifnum\value{liststop}>2 \finalandcomma\fi%
+\addsemicolon\space}%
+\renewcommand*{\citemultinamedelim}{\addsemicolon\space}
+\renewcommand*{\citefinalnamedelim}{\addsemicolon\space}
+\renewcommand*{\labelnamepunct}{\addperiod\space}
+\renewcommand*{\nametitledelim}{\addperiod\space}
+\renewcommand*{\newunitpunct}{\addperiod\space}
+
+\DefineBibliographyStrings{english}{%
+seenote          = {viz pozn\adddot},
+page          = {s\adddot},
+pages          = {s\adddot},
+backrefpage = {citováno na s\adddot},
+backrefpages= {citováno na s\adddot},
+url = {Dostupný z WWW\addcolon},
+byeditor         = {ed\adddotspace},
+urlseen         = {cit\adddot},
+}
+
+% popiseky tabulek
+\usepackage[hang,bf,small]{caption} % úprava popisku tabulky
+\setlength{\captionmargin}{20pt}
+
+% tisk částí
+\let\stdsection\section
+\renewcommand*{\section}{\clearpage\stdsection}
+
+\AtEveryCite{%
+\clearfield{url}%
+\clearfield{urldate}%
+ \DeclareFieldFormat{url}{}%
+ \DeclareFieldFormat{urldate}{}%
+}
+
+% Formát data v url
+\DeclareFieldFormat{urldate}{%
+  \iffieldundef{urlday}
+    {}
+    {\stripzeros{\thefield{urlday}}\adddot%
+\stripzeros{\thefield{urlmonth}}\adddot%
+\printfield{urlyear}}%
+}
+
+\renewbibmacro{url+urldate}{%
+\iffieldundef{urlday}
+    {}
+  {\space\printtext{[}\bibstring{urlseen} \printurldate\printtext{]}} 
+\iffieldundef{url}
+{}
+{\printfield{url}\adddotspace}}
+
+\DeclareFieldFormat{url}{\bibstring{url} \url{#1}}
+
+% Správné zpětné citace
+\renewcommand*{\finentrypunct}{}
+\renewbibmacro*{pageref}{%
+  \addperiod% NEW
+  \iflistundef{pageref}
+    {}
+    {\printtext[parens]{% NEW
+       \ifnumgreater{\value{pageref}}{1}
+         {\bibstring{backrefpages}\ppspace}
+     {\bibstring{backrefpage}\ppspace}%
+       \printlist[pageref][-\value{listtotal}]{pageref}\addperiod}}}% NEW
