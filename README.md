@@ -10,7 +10,7 @@ Připomínky
 
 Zveřejňovaná verze je pracovní, text ještě potřebuje korektury a faktické a právní recenze. Budu rád, pokud vytvoříte diskusi k nějakému issue nebo rovnou uděláte pull request na korektury nebo jiné opravy, a to k souboru [main.lyx][zam-dila-zdroj].
 
-[zam-dila-zdroj]: main.lyx?raw=true
+[zam-dila-zdroj]: main.lyx
 
 Kompilace
 ---------
