@@ -8,7 +8,7 @@ V tomto repozitáři průběžně zveřejňuji [text o zaměstnaneckých dílech
 Připomínky
 ----------
 
-Zveřejňovaná verze je pracovní, text ještě potřebuje korektury a faktické a právní recenze. Budu rád, pokud vytvoříte diskusi k nějakému issue nebo rovnou uděláte pull request na korektury nebo jiné opravy, a to k souboru [main.lyx][zam-dila-zdroj]. Jak github funguje se dozvíte [zde](https://guides.github.com/introduction/flow/index.html|zde).
+Zveřejňovaná verze je pracovní, text ještě potřebuje korektury a faktické a právní recenze. Budu rád, pokud vytvoříte diskusi k nějakému issue nebo rovnou uděláte pull request na korektury nebo jiné opravy, a to k souboru [main.lyx][zam-dila-zdroj]. Jak github funguje se dozvíte [zde](https://guides.github.com/introduction/flow/index.html).
 
 [zam-dila-zdroj]: main.lyx
 
